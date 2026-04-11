@@ -1,0 +1,20 @@
+{
+  "commitMessage": "vault: {{date}}",
+  "autoCommitMessage": "vault: {{date}}",
+  "autoPullInterval": 10,
+  "autoPullOnBoot": true,
+  "autoSaveInterval": 10,
+  "autoPushInterval": 10,
+  "pullBeforePush": true,
+  "disablePush": false,
+  "disablePull": false,
+  "pushOnBackup": true,
+  "autoBackupAfterFileChange": false,
+  "gitPath": "",
+  "basePath": "",
+  "differentIntervalCommitAndPush": false,
+  "changedFilesInStatusBar": true,
+  "showedMobileNotice": true,
+  "refreshSourceControl": true,
+  "syncMethod": "merge"
+}
