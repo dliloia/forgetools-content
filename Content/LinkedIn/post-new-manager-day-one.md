@@ -9,48 +9,14 @@ repurposed_from: [[How to set a team culture when youre a new manager]]
 tags: [linkedin, new-manager, first-days, transition]
 ---
 
-## Hook
-Your first day as a manager, you're still thinking like an individual contributor.
+Your first day as a manager, you're still thinking like an IC.
 
-That instinct will cost you.
+When you were an individual contributor, your job was to do things. Write the code, close the deal, execute the project. The better you did things, the more you got recognized. As a manager, your job is to make other people great at doing things. The faster you can make this mental shift, the better manager you'll be. Most new managers never get told this explicitly, and it trips them up for months.
 
-## Body
-When you were an IC, your job was to do things.
+Here's what I've seen go wrong in the first 90 days, over and over again. New managers keep doing the work instead of delegating it because that's where their confidence lives. They give answers instead of asking questions because they want to prove they belong. They measure their value by their own output instead of their team's growth. They run 1:1s as status updates instead of development conversations. And they avoid hard feedback because they don't want to damage the relationships they just inherited. Every one of these mistakes comes from the same root cause: the job description changed on day one, but the mental model didn't.
 
-Write the code. Close the deal. Execute the project.
+The best new managers I've seen do one thing differently from the start. They get curious about their people immediately. Not their work, their people. What do they care about? What frustrates them? What do they want to be in 2 years? You can't develop someone you don't understand. That curiosity, applied consistently from day one, builds the foundation that everything else sits on.
 
-The better you did things, the more you got recognized.
+The transition from IC to manager is one of the hardest career shifts there is. What's the biggest adjustment you had to make when you first became a manager?
 
-As a manager, your job is to make other people great at doing things.
-
-The faster you can make this mental shift, the better manager you'll be.
-
-Here's what trips up new managers in the first 90 days:
-
-→ They keep doing the work instead of delegating it
-→ They give answers instead of asking questions
-→ They measure their value by their own output, not their team's
-→ They run 1:1s as status updates instead of growth conversations
-→ They avoid hard feedback because they don't want to damage relationships
-
-The job description changed on day one. Most people don't update their mental model for months — some never do.
-
-The best new managers I've seen do one thing differently:
-
-They get curious about their people immediately. Not their work. Their people.
-
-What do they care about? What frustrates them? What do they want to be in 2 years?
-
-You can't develop someone you don't understand.
-
-## CTA / Closing
-The transition from IC to manager is one of the hardest career shifts there is.
-
-What's the biggest adjustment you had to make when you first became a manager?
-
----
-**Notes / Context**
-Huge audience of new managers and aspiring managers. Good for shares and "I wish I'd heard this" engagement.
-
----
-Source: [[How to set a team culture when youre a new manager]]
+#NewManager #Leadership #Management

@@ -9,38 +9,14 @@ repurposed_from: [[blue-collar-leadership]]
 tags: [linkedin, leadership, blue-collar, background]
 ---
 
-## Hook
-I grew up blue collar. I lead like it.
+I grew up blue collar, and I lead like it.
 
-That's not a limitation. It's an advantage.
+The corporate world has a funny relationship with blue collar work. People talk about "rolling up your sleeves" but they've never actually done it. It's a metaphor. They mean "I'll work hard on the spreadsheet." For me it's literal. I have worked jobs where the work left marks on your hands, where you don't stop until the job is done, where the team around you is counting on you to carry your weight because if you don't, the whole thing breaks down. That experience shaped everything about how I think about leadership.
 
-## Body
-The corporate world has a funny relationship with blue collar work.
+Work earns respect, titles don't. The fastest way to lose a team is to act like the title entitles you to something. The fastest way to earn one is to show up and do the work alongside them. I've watched plenty of managers coast on authority, and I've watched their teams check out mentally within weeks. The managers who earned real loyalty were the ones who never asked anyone to do something they wouldn't do themselves. That lesson was obvious in hourly work, and it's just as true in a corporate office.
 
-People talk about "rolling up your sleeves" but they've never actually done it. It's a metaphor. They mean "I'll work hard on the spreadsheet."
+The person closest to the problem usually has the answer. In most jobs I've had, the frontline worker knows more about what's actually happening than any manager two levels up. The best thing a leader can do is listen. And showing up is not optional. In hourly work, if you don't show up, someone else covers for you, and everyone knows it. Leaders who cancel 1:1s and skip team meetings are sending the same message. People hear it loud and clear.
 
-For me it's literal. I have worked jobs where the work left marks on your hands. Where you don't stop until the job is done. Where the team around you is counting on you to carry your weight because if you don't, the whole thing breaks down.
+Hard work isn't the whole answer, but you can't lead people who work hard if you're not willing to do it yourself. I never lost my blue collar instincts, and I'm grateful for that. What's the most important thing your background taught you about leadership?
 
-That experience shapes how I think about leadership.
-
-A few things I learned:
-
-Work earns respect. Titles don't. The fastest way to lose a team is to act like the title entitles you to something. The fastest way to earn one is to show up and do the work alongside them.
-
-The person closest to the problem usually has the answer. In most jobs I've had, the frontline worker knows more about what's actually happening than any manager two levels up. The best thing you can do is listen.
-
-Showing up is not optional. In hourly work, if you don't show up, someone else covers it. There is no "I'll catch up later." Leaders who cancel 1:1s and skip team meetings are sending a message. People hear it.
-
-Hard work isn't the whole answer. But you can't lead people who work hard if you're not willing to do it yourself.
-
-## CTA / Closing
-I never lost my blue collar instincts. I'm grateful for that.
-
-What's the most important thing your background taught you about leadership?
-
----
-**Notes / Context**
-Authentic and differentiating. Humanizes Dave. Good for building a loyal following from non-traditional leadership backgrounds.
-
----
-Source: [[blue-collar-leadership]]
+#Leadership #BlueCollar #Management

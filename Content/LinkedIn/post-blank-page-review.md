@@ -9,35 +9,14 @@ repurposed_from:
 tags: [linkedin, performance-reviews]
 ---
 
-## Hook
-It's performance review season.
+Most managers are winging their performance reviews.
 
-You're staring at a blank page. You have to write a review for someone you've managed for 12 months.
+It's review season and you're staring at a blank page. You have to write a review for someone you've managed for 12 months, and you're trying to remember what happened. This is the dirty secret of performance management. Managers remember the last two months vividly, the middle of the year vaguely, and the beginning almost not at all. So they write reviews that reflect recent memory more than actual performance. That's not fair to the employee, it's not useful to the organization, and it's a stressful disaster for the manager.
 
-And you're trying to remember what happened.
+The fix isn't a better review template. It's documentation all year long. Every 1:1 you run, 30 minutes once a week, is a data point. If you capture what was discussed, what was promised, what progress happened, and what challenges came up, by review time you have 26 data points per person. Not a blank page. A narrative. The performance review stops being something you dread and starts being something you assemble from real evidence.
 
-## Body
-This is the dirty secret of performance management: most managers are winging it.
+That shift from blank page to evidence changes everything about how reviews feel for both sides. The employee isn't blindsided because they've heard all of this before in real time. The manager isn't stressed because the work of documenting has been spread across the whole year in small increments. The review becomes a summary of an ongoing conversation, not a judgment delivered from on high.
 
-They managed by impression all year. They remember the last two months vividly, the middle of the year vaguely, and the beginning almost not at all. So they write reviews that reflect recent memory more than actual performance.
+I built ManagerForge because this problem has an obvious solution that nobody systematizes. Are you dreading your next review cycle? You don't have to be.
 
-That's not fair to the employee. It's not useful to the organization. And it's a stressful, time-consuming disaster for the manager.
-
-The fix isn't a better review template.
-
-It's documentation all year long.
-
-Every 1:1 you run — 30 minutes, once a week — is a data point. If you capture what was discussed, what was promised, what progress happened, what challenges came up... by review time you have 26 data points per person. Not a blank page. A narrative.
-
-The performance review stops being something you dread and starts being something you assemble.
-
-That's the shift. From blank page to evidence.
-
-## CTA / Closing
-I built ManagerForge because this problem has an obvious solution that nobody systematizes.
-
-Are you dreading your next review cycle? You don't have to be.
-
----
-**Notes / Context**
-Great post for timing around review seasons. Also works as evergreen content. Links naturally to ManagerForge.
+#PerformanceReviews #Leadership #Management

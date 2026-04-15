@@ -9,37 +9,14 @@ repurposed_from:
 tags: [linkedin, feedback, performance-management]
 ---
 
-## Hook
-The best time to give feedback is as close to the moment as possible.
+Most managers wait until the performance review to give feedback.
 
-Most managers wait until the performance review.
+Here's what happens when you save it. The employee doesn't remember the moment. You're reconstructing events from memory. The feedback feels like a verdict instead of a course correction. And by that point, the behavior has been repeated dozens of times since it happened. Feedback works like medicine: early intervention changes the outcome, while delayed treatment just manages the damage.
 
-## Body
-Here's what happens when you save feedback for reviews:
+The managers I've seen build high-performing teams share one specific habit. They give feedback in the moment, or within 24 hours, and they keep it specific. Not "you need to communicate better." Instead: "Yesterday in the meeting, when you cut Sarah off while she was presenting the data, I noticed it shifted the room. Here's how I'd approach it next time." That's the difference between feedback that changes behavior and feedback that makes someone defensive. Specific, timely, and forward-looking. Those three qualities are the whole formula.
 
-The employee doesn't remember the moment. You're reconstructing events from memory. The feedback feels like a verdict instead of a course correction.
+Here's the other thing most managers miss. Timely feedback builds trust. When people know they'll hear from you right away, they stop dreading the review because they already know where they stand. There are no surprises. The review becomes a summary of conversations they've already had, not a list of grievances you've been collecting for months. That predictability is what makes people feel safe, and safety is what makes people receptive to hard truths.
 
-And by that point, the behavior has been repeated dozens of times since it happened.
+Most managers avoid feedback because it's uncomfortable in the moment. But the discomfort of one honest conversation is far less than the damage of waiting six months. When did you last give feedback within 24 hours of the moment that warranted it?
 
-Feedback works like medicine. Early intervention changes the outcome. Delayed treatment manages the damage.
-
-The managers I've seen build high-performing teams share one habit: they give feedback in the moment, or within 24 hours, and they keep it specific.
-
-Not "you need to communicate better."
-
-"Yesterday in the meeting, when you cut Sarah off while she was presenting the data, I noticed it shifted the room. Here's how I'd approach it next time."
-
-Specific. Timely. Forward-looking.
-
-Here's the other thing: timely feedback builds trust. When people know they'll hear from you right away, they stop dreading the review. They know where they stand. The review becomes a summary, not a surprise.
-
-## CTA / Closing
-Most managers avoid feedback because it's uncomfortable in the moment.
-
-But the discomfort of one honest conversation is far less than the damage of waiting six months.
-
-When did you last give feedback within 24 hours of the moment that warranted it?
-
----
-**Notes / Context**
-Highly relatable. Most managers recognize themselves here. Ties directly to ManagerForge's 1:1 documentation approach.
+#Feedback #Leadership #Management

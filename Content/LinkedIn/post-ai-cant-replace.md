@@ -9,44 +9,14 @@ repurposed_from: [[What AI cant replace in management]]
 tags: [linkedin, ai, leadership, human-connection]
 ---
 
-## Hook
-AI can summarize a meeting.
+AI can summarize a meeting, but it can't care about the person who ran it.
 
-It can't care about the person who ran it.
+There's a lot of conversation right now about AI replacing managers, and I want to be clear about where I stand. I use AI in my work every day. I built an AI-powered tool for managers. I believe deeply in what it can do. AI can synthesize information, spot patterns, surface insights buried in notes, generate talking points, draft feedback, and analyze trends across your team. It's genuinely powerful, and it's only getting better.
 
-## Body
-There's a lot of conversation about AI replacing managers.
+But here's what AI cannot do. It can't notice that your engineer has been quieter in the last three meetings and decide to ask them what's going on. It can't advocate for someone in a room they're not in. It can't show up to a 1:1 and just listen for 30 minutes, no agenda, because that person is going through something hard. It can't follow through on a commitment you made three weeks ago because you actually care enough to write it down and come back to it. Those aren't features. They're choices, and they're the choices that separate a manager from a person who manages.
 
-Here's what AI can do well: synthesize information, spot patterns, surface what's buried in notes, generate talking points, draft feedback, analyze trends across your team.
+AI is a multiplier. It makes thoughtful managers more effective by giving them time back and helping them see patterns they'd otherwise miss. But the thing AI multiplies has to be there first. The curiosity about your people. The consistency of showing up every week. The willingness to actually develop someone even when it's inconvenient for you.
 
-I use AI in my work every day. I built an AI-powered tool for managers. I believe deeply in what it can do.
+A lazy manager with AI tools is still a lazy manager. A thoughtful manager with AI tools is a great one. The question isn't whether AI will replace you. The question is whether you're doing the things that AI can't.
 
-Here's what AI cannot do:
-
-Notice that your engineer has been quieter in the last three meetings and ask them what's going on.
-
-Decide to advocate for someone in a room they're not in.
-
-Show up to a 1:1 and just listen for 30 minutes, no agenda, because that person is going through something hard.
-
-Follow through on a commitment you made three weeks ago because you actually wrote it down and came back to it.
-
-Those aren't features. They're choices. They're the choices that separate a manager from a person who manages.
-
-AI is a multiplier. It makes thoughtful managers more effective. It gives them time back. It helps them see patterns they'd otherwise miss.
-
-But the thing AI multiplies has to be there first. The curiosity. The consistency. The willingness to actually develop the people on your team.
-
-A lazy manager with AI tools is still a lazy manager. A thoughtful manager with AI tools is a great one.
-
-## CTA / Closing
-The question isn't whether AI will replace you.
-
-The question is whether you're doing the things that AI can't.
-
----
-**Notes / Context**
-Timely topic. Shows Dave's nuanced view on AI. Good for credibility and differentiation. Ties naturally to ManagerForge.
-
----
-Source: [[What AI cant replace in management]]
+#AI #Leadership #Management

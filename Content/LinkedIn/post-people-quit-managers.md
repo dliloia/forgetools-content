@@ -9,45 +9,14 @@ repurposed_from: [[why-people-quit-managers]]
 tags: [linkedin, retention, management]
 ---
 
-## Hook
-People don't quit companies.
+People don't quit companies, they quit managers.
 
-They quit managers.
+You've heard this before. But do you actually believe it? Because if you did, manager development would be the number one HR investment everywhere, and it's not. The data on this is decades old and completely consistent: the primary reason high performers leave is their manager. Not pay. Not benefits. Not the company's direction. The manager.
 
-You've heard this. But do you actually believe it? Because if you did, manager development would be the #1 HR investment everywhere. It's not.
+Here's the brutal part. In almost every case, the manager who lost that person wasn't malicious. They weren't cruel. They just canceled 1:1s when things got busy. They never asked about career development. They gave feedback only when things went wrong. They made every conversation about work, never about the person. They didn't notice when someone was struggling until it was too late. It's death by a thousand unintentional cuts. No single moment feels like a failure, but the accumulated effect is devastating.
 
-## Body
-The data on this is decades old and completely consistent:
+The fix isn't complicated. It's consistent. Show up every week. Learn who your people are as human beings, not just as contributors. Invest in their growth even when it's not convenient for you. Follow through on what you say you'll do. That's it. That's the whole retention strategy. You don't need a better engagement survey or a bigger bonus pool. You need managers who understand that the relationship IS the job, not a nice-to-have alongside the real work.
 
-The primary reason high performers leave is their manager.
+The manager is the variable. Everything else is noise. What's one thing you're doing intentionally to keep your best people?
 
-Not pay. Not benefits. Not the company's direction.
-The manager.
-
-And here's the brutal part: in almost every case, the manager who lost that person wasn't malicious. They weren't cruel. They just:
-
-→ Canceled 1:1s when things got busy
-→ Never asked about career development
-→ Gave feedback only when things went wrong
-→ Made every conversation about work, never about the person
-→ Didn't notice when the person was struggling until it was too late
-
-It's death by a thousand unintentional cuts.
-
-The fix isn't complicated. It's consistent.
-
-Show up every week. Learn who your people are. Invest in their growth. Follow through on what you say you'll do.
-
-That's it. That's the whole retention strategy.
-
-## CTA / Closing
-The manager is the variable. Everything else is noise.
-
-What's one thing you're doing intentionally to keep your best people?
-
----
-**Notes / Context**
-High engagement topic. Managers and HR professionals will share this. Direct and bold.
-
----
-Source: [[why-people-quit-managers]]
+#Retention #Leadership #Management
