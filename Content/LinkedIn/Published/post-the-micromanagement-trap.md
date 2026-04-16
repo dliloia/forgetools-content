@@ -5,7 +5,10 @@ status: ready
 topic: management style
 published_date: 2026-04-16
 source_idea: micromanagement-trap.md
-tags: [linkedin, management-style]
+tags:
+  - linkedin
+  - management-style
+linkedin_post: https://www.linkedin.com/feed/update/urn:li:share:7450555765267808256/
 ---
 
 Most micromanagers think they're just thorough managers with high standards.
