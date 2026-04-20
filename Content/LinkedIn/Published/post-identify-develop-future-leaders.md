@@ -1,11 +1,14 @@
 ---
-title: "How to Identify and Develop Future Leaders Before They're Ready"
+title: How to Identify and Develop Future Leaders Before They're Ready
 type: linkedin
 status: ready
 topic: talent development, promotion
 published_date: 2026-04-20
 source_idea: promoting-from-within.md
-tags: [linkedin, talent-development]
+tags:
+  - linkedin
+  - talent-development
+published_url: https://www.linkedin.com/feed/update/urn:li:share:7452043151738847232/
 ---
 
 Most managers develop their best people in private. Then they wonder why leadership doesn't see what they see.
