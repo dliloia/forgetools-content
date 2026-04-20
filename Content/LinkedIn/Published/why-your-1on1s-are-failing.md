@@ -21,32 +21,14 @@ excerpt: Most managers run status updates and call them 1:1s. Here are the three
 featuredQuote: That's not a 1:1. That's a stand-up with chairs.
 ---
 
-You're having 1:1s every week.
+You're having 1:1s every week. Your team still doesn't trust you.
 
-Your team still doesn't trust you.
-
-Here's why: most managers are running status updates and calling them 1:1s. The meeting is on the calendar. The box is checked. But nothing real is happening.
-
-I've managed hundreds of people across my career. The pattern is always the same. A manager sits down, opens their laptop, and says "So, what are you working on?" The employee rattles off their task list. The manager nods. Maybe assigns something new. Meeting over.
+Most managers are running status updates and calling them 1:1s. The meeting is on the calendar, the box is checked, but nothing real is happening. A manager sits down, asks "what are you working on?", the employee rattles off their task list, and everyone moves on.
 
 That's not a 1:1. That's a stand-up with chairs.
 
-**A real 1:1 has three characteristics:**
+Over a year, fake 1:1s mean 52 missed chances to build trust, 52 weeks where your best people silently decide whether to stay or start looking, and 52 chances to catch a problem early that you let pass. The cost is almost never visible until someone quits.
 
-It's 100% for the employee. Not your agenda. Theirs.
+Full article: https://www.managerforge.com/insights/why-your-1on1s-are-failing
 
-It never gets canceled. Not when you're busy. Not when there's a deadline. Not when "things are going fine." Canceling a 1:1 tells your employee exactly where they rank on your priority list.
-
-It goes beyond work. You talk about how they're doing, where they want to go, what's on their mind. You build a relationship, not a reporting structure.
-
-**The cost of fake 1:1s compounds fast.**
-
-Over a year, that's 52 missed opportunities to build trust. 52 weeks where your best people silently decide whether to stay or start looking. 52 chances to catch a problem early that you let pass.
-
-The fix isn't complicated. Stop talking about your agenda. Start asking real questions. Follow through on what you hear.
-
-The 1:1 is the single highest-leverage tool a manager has. Most managers waste it every single week.
-
-What's one thing you'd change about how you run your 1:1s?
-
-#Leadership #Management #OneOnOnes #PeopleManagement #ManagerDevelopment
+#Leadership #Management #OneOnOnes
