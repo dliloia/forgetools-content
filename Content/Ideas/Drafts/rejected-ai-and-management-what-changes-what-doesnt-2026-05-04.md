@@ -17,78 +17,86 @@ violations: 1 blocking, 0 warning
 
 ---
 
-Most managers are drowning in the wrong work.
+Most managers are either afraid of AI or have already handed it the wheel. Both are mistakes.
 
-Not because they're bad managers. Because the job comes loaded with administrative weight that has nothing to do with actually leading people. Meeting notes. Status updates. Tracking action items. Drafting performance summaries. Scheduling. The list is long, and it eats the hours that should go to the real work: knowing your people, developing them, making hard calls, building the kind of trust that holds a team together when things get hard.
+The fear is understandable. There's a lot of noise about what AI will replace, and management is a human job. The concern makes sense. But avoiding AI tools in 2025 is like refusing to use email in 2002. You're not protecting anything. You're just making yourself slower.
 
-AI is changing that equation. And if you're a manager, you need to understand exactly what it's changing and what it isn't, because getting this wrong in either direction will hurt you.
+The over-reliance is more dangerous, and less obvious. A manager who lets AI draft their performance reviews without thinking hard about what they're actually saying has outsourced their judgment. That's not efficiency. That's abdication.
 
-## The Administrative Weight Is Real
+The question isn't whether to use AI. The question is: what does it actually do well, and what does it absolutely cannot touch?
 
-Here's a number worth sitting with. Research consistently shows managers spend somewhere between 30 and 50 percent of their time on administrative tasks. Not strategy. Not coaching. Not making decisions. Paperwork, coordination, documentation.
+## What AI Does Well
 
-I've managed hundreds of people across my career. I've sat across the table from more than a few burned-out managers who genuinely cared about their teams but couldn't find the hours to actually show it. They were buried. Performance reviews took weeks of prep because they were starting from scratch, trying to reconstruct months of context from scattered notes and memory. One-on-ones felt rushed because there were four other things on fire. Feedback was delayed because there was never a clean moment to deliver it.
+AI is very good at the parts of management that feel like work but don't require you.
 
-That's not a character flaw. That's a structural problem. And it's one AI is genuinely equipped to help solve.
+Transcribing a meeting. Pulling out action items. Summarizing a one-on-one. Drafting a first cut of a performance review. Flagging patterns across a team's feedback over six months. Reminding you that you haven't checked in with someone in three weeks.
 
-## What AI Actually Does Well
+These are real tasks. They take real time. And they require almost no judgment.
 
-Let me be specific, because the hype around AI in the workplace has outpaced the reality in most people's minds.
+Think about how much of your week goes into that kind of work. Typing up notes from a one-on-one you just had. Trying to remember what you told someone three months ago so your review is consistent. Drafting the same "here's what we discussed" email for the fourth time this week.
 
-AI handles transcription accurately and fast. If you're running a meeting and the output is a clean summary with action items and owners attached, you didn't spend twenty minutes writing that up. It's already done. That's real time back.
+If a tool can do that work in thirty seconds instead of thirty minutes, you have thirty minutes back. Every day. That adds up to something significant by the end of a quarter.
 
-AI surfaces patterns you'd otherwise miss. If you're logging your one-on-one notes consistently, AI can tell you that three different people on your team have mentioned capacity concerns in the last two months. You might have caught that. You might not have. AI catches it every time.
-
-AI drafts. Performance reviews, feedback frameworks, job descriptions, development plans. It doesn't write the final version. You do. But starting from a structured draft instead of a blank page cuts prep time dramatically, and it means you're editing and refining instead of staring at a cursor.
-
-AI holds structure so you don't have to carry it in your head. Knowing what you said you'd follow up on. Knowing where a development conversation left off six weeks ago. That cognitive load is real, and offloading it matters.
-
-None of that is magic. All of it is useful.
+The administrative weight of management is real, and it crowds out the actual work of managing. When you're grinding through documentation, you're not coaching. When you're reformatting notes, you're not having the hard conversation you've been avoiding. AI clears that friction. That's genuinely valuable.
 
 ## What AI Cannot Do
 
-This is the part that actually matters.
+Here's where it gets important.
 
-AI cannot read the room. It cannot tell you that someone said "I'm fine" but their energy was completely different from the last three one-on-ones, and something is probably going on. It cannot tell you that the new hire who's technically performing well is quietly losing faith in the team direction. It cannot hear what isn't being said.
+AI cannot build a relationship. It can tell you that you haven't met with someone in two weeks, but it cannot tell you that the reason she's been quiet is that her father is sick and she hasn't told anyone yet. You know that because you've spent eighteen months building enough trust that she'd mention it in passing. AI has no access to that.
 
-AI cannot build trust. Trust is built in small, repeated moments. Keeping your word. Showing up when it's inconvenient. Giving hard feedback in a way that lands as care rather than criticism. Advocating for someone behind closed doors when they don't even know you did it. That is relationship work. It requires presence, judgment, and genuine investment in another person. AI cannot simulate that, and it shouldn't try.
+AI cannot read a room. It can transcribe what was said in a team meeting, but it cannot tell you that three people went silent when the reorg came up, or that your most vocal team member was visibly uncomfortable when you praised someone else's work. Those signals are where the real information lives. They only exist in the room, in the moment.
 
-AI cannot make the call on the hard things. Who to promote when two people are equally qualified but for different reasons. How to restructure a team in a way that's honest about the tradeoffs. When to push a high performer harder and when they're already at their limit. That judgment comes from knowing the people, knowing the business, and being willing to own the decision. It doesn't come from a model.
+AI cannot earn trust. Trust is built through consistency over time. It's built when you go to bat for someone and they find out about it later. It's built when you give hard feedback and it turns out you were right and they know you were right because you'd already invested in them. No tool does that. You do that.
 
-AI cannot earn respect. Respect from the people you manage isn't given based on your tools. It's given based on who you are in the moments that count.
+AI cannot know when to push and when to back off. I've managed people for over three decades and that call still requires everything I have: reading someone's capacity in the moment, knowing their history, understanding what they're capable of versus what they're giving right now, and making a judgment about which is which. That's a human calculation made from accumulated context. AI has summaries. You have relationship.
 
-## The Danger Worth Naming
+And AI cannot replace your judgment about people. It can surface patterns. It can flag that someone's sentiment in written updates has shifted over the past six weeks. It can tell you they've missed two one-on-ones. What it cannot do is weigh those signals against everything else you know and decide what's actually going on. That's you.
 
-There's a version of AI use in management that I find genuinely concerning.
+## The Danger Nobody Talks About
 
-It's the manager who lets the AI-generated summary become a substitute for actually listening in the meeting. Who lets the drafted performance review stand without really wrestling with whether it's true. Who uses AI-generated questions in a one-on-one instead of being present enough to ask the question the moment actually calls for.
+The risk with AI isn't replacement. Managers who think AI is going to take their jobs are missing the point.
 
-When AI handles the administrative layer, you get time back. That time should go toward more human engagement with your team. If it goes toward doing less human engagement because the tools are handling the surface, you've made yourself a worse manager while looking like a more efficient one. The output looks fine. The relationship erodes.
+The risk is that you use AI to avoid doing the hard parts.
 
-The tool is only as good as what you do with the time it frees up.
+A performance review drafted entirely by an AI isn't a review. It's a document. The act of writing a review forces you to synthesize everything you know about someone and make concrete claims about them. That process is where your own thinking gets sharpened. Skip it, and you've skipped the thinking.
 
-## The Time Math Changes
+Same with feedback. If you're having AI generate the language for a difficult conversation, you're not preparing. You're procrastinating with extra steps. The reason giving feedback is hard is that you have to decide what you actually think and then say it to another human being. An AI can help you organize your thoughts. It should not be doing your thinking for you.
 
-Here's what shifts when you use AI well.
+The managers who will struggle with AI are the ones who use it as a crutch for every judgment call they find uncomfortable. Over time, that habit atrophies the skill. The skill you're atrophying is the one that makes you valuable.
 
-A manager who spent four hours preparing a performance review now spends ninety minutes. That's two and a half hours back per person on the team. Across a team of eight, that's twenty hours of prep time recovered in a single review cycle.
+## The Time Math
 
-A manager who was manually synthesizing themes from one-on-ones now gets a pattern summary automatically. They spend that recovered time in a real conversation instead of behind a screen.
+Here's the real argument for AI in management.
 
-A manager who was writing every job description from scratch now reviews and refines a solid draft. Time cut by half or more.
+A manager spending two hours a week on administrative documentation and another hour reformatting notes and drafting summary emails is spending three hours a week on work that doesn't require them. Over a year, that's roughly 150 hours.
 
-That's not incremental improvement. Across a full year, those hours add up to something significant. The question is what you do with them. The managers who thrive in the next decade will be the ones who let AI handle the noise so they can finally focus on the signal.
+150 hours is a lot of one-on-ones. It's a lot of coaching conversations. It's a lot of time spent actually developing the people on your team.
 
-## What This Means for You Right Now
+The managers who use AI well aren't working less. They're doing more of the work that actually matters. The best use of reclaimed time isn't to close your laptop earlier. It's to spend more time with your people.
 
-If you're resistant to AI tools because they feel impersonal or gimmicky, I'd push you to rethink that. The goal is not to replace your judgment. The goal is to stop losing hours to tasks that don't require your judgment at all.
+## What This Looks Like in Practice
 
-If you're enthusiastic about AI tools, I'd push you to stay honest about what they're actually doing. They're handling the administrative layer. The human layer is still entirely yours, and it always will be.
+A manager using AI well walks into a one-on-one with notes already organized from the last three sessions. They didn't spend twenty minutes pulling those together. They spent those twenty minutes thinking about what they want to say and how they want to say it.
 
-The managers who get this right will look different from the ones who don't. They'll have more time for real conversations. They'll know their people better. They'll catch problems earlier because they're not buried in prep work. They'll give better feedback because they have context rather than trying to reconstruct it from memory.
+They leave the conversation and spend three minutes capturing what happened in plain language. The AI helps structure it, flag anything that needs follow-up, and connect it to patterns from previous conversations. The manager reviews it, corrects anything that's off, and moves on.
 
-That's the version of management AI makes possible. Not easier in the sense of less demanding, but cleaner. Clearer. With the administrative noise quieted, you can finally hear what the job is actually asking of you.
+Their performance reviews start with a draft that pulls from months of captured context. They spend their time editing, adding nuance, and making sure the claims are honest and specific rather than starting from a blank page trying to remember what happened in February.
 
-The human work of management has never been more important. And now, for the first time, you have real tools to protect the time it deserves.
+What they don't do: let any of that replace their actual observations. They don't accept a summary that doesn't match what they saw. They don't send a review that doesn't sound like them.
+
+AI removes the friction. It doesn't do the managing.
+
+## The Actual Advantage
+
+The managers who figure this out early will have a real edge. Not because they're using flashy tools, but because they'll have more time and more context to do the human work well.
+
+The human work is the irreplaceable part: building trust, reading people accurately, making judgment calls, having hard conversations, developing someone over time. That's what good management actually is.
+
+AI handles the scaffolding. You still have to build the thing.
+
+The managers who resist it will be slower and more overloaded. The managers who over-rely on it will make shallower judgment calls and wonder why their teams don't trust them. The managers who use it correctly will have more capacity for the work that actually can't be automated.
+
+That's the whole argument. Use the tool for what it does well. Stay present for everything it cannot touch.
 
 ---
