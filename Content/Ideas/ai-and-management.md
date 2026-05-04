@@ -1,7 +1,7 @@
 ---
 title: AI and Management — What Changes, What Doesn't
 type: idea
-status: idea
+status: audit-failed-2026-05-04
 topic: AI, future of work
 platforms: 
 tags: [idea, ai, future-of-work]
