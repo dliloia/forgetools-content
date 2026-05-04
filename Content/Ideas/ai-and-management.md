@@ -1,7 +1,7 @@
 ---
 title: AI and Management — What Changes, What Doesn't
 type: idea
-status: audit-failed-2026-05-04
+status: idea
 topic: AI, future of work
 platforms: 
 tags: [idea, ai, future-of-work]
@@ -19,5 +19,6 @@ Managers who understand where AI adds value and where it doesn't will have a mas
 - How AI changes the time math of being a manager
 - The danger of using AI as a crutch (letting it replace your judgment)
 - A day in the life of a manager who uses AI well vs. one who doesn't
+
 
 
