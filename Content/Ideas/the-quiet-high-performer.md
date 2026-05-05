@@ -1,7 +1,7 @@
 ---
 title: The Quiet High Performer
 type: idea
-status: audit-failed-2026-05-05
+status: idea
 topic: talent development
 platforms: 
 tags: [idea, talent-development]
@@ -19,3 +19,4 @@ Managers are conditioned to spend energy on problems — the underperformer, the
 - The specific 1:1 questions that unlock what's really going on
 - Signs that a quiet high performer is about to leave
 - The development investment that keeps them engaged: stretch assignments, exposure, visibility
+
