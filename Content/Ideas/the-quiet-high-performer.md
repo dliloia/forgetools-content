@@ -1,7 +1,7 @@
 ---
 title: The Quiet High Performer
 type: idea
-status: idea
+status: audit-failed-2026-05-05
 topic: talent development
 platforms: 
 tags: [idea, talent-development]
