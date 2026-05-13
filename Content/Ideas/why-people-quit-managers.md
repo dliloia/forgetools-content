@@ -1,7 +1,7 @@
 ---
 title: Why People Quit Managers
 type: idea
-status: idea
+status: audit-failed-2026-05-13
 topic: retention, management
 platforms: 
 tags: [idea, retention, management]
