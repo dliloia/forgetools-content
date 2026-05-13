@@ -8,7 +8,7 @@ tags: [idea, career-development, resilience, growth]
 ---
 
 ## The Idea
-"Adapt or die" is the most important career skill, and most people underestimate how serious it is. I learned this in Dr. Jinks' 11th grade honors human physiology class. He had a sign above his door, and on the first day someone would always ask what it meant. He would go off about how the only thing that actually matters in life is your ability to adapt and flex.
+"Adapt or die" is the most important career skill, and most people underestimate how serious it is. I learned this in Dr. Jinx' 11th grade honors human physiology class. He had a sign above his door, and on the first day someone would always ask what it meant. He would go off about how the only thing that actually matters in life is your ability to adapt and flex.
 
 Over a career spanning baker, pharmacy delivery driver, trench-digger, landscaper, pizza maker, telemarketer, and eventually senior leadership, the single talent that has compounded is resourcefulness. The ability to learn something new and adjust is worth more than any specific skill, because specific skills go obsolete and adaptability does not.
 
