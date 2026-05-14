@@ -24,4 +24,4 @@ Most people think accountability means accepting blame. It does not. Accountabil
 - Why writing it in advance, before the meeting, changes the conversation entirely
 - The asymmetric outcome of accountability: the worst case is you get fired anyway; the best case is the failure becomes the moment your reputation as a leader is built
 - What happens to engineers who knowingly build what doesn't work, and why that vendor relationship ended
-- The link to "I don't trust people who don't make mistakes" — this is what handling a mistake well actually looks like in practice
+- The link to "I don't trust people who don't make mistakes". This is what handling a mistake well actually looks like in practice

@@ -1,5 +1,5 @@
 ---
-title: Mechanisms — You Can't Fix What You Can't Measure
+title: "Mechanisms: You Can't Fix What You Can't Measure"
 type: idea
 status: idea
 topic: organization & systems, leadership
