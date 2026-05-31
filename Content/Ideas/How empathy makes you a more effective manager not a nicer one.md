@@ -3,7 +3,7 @@ title: How empathy makes you a more effective manager not a nicer one
 type: idea
 status: draft
 draft_date: 2026-05-31
-draft_slug: empathy-makes-you-more-effective-manager
+draft_slug: empathy-roi-for-managers
 book_section: Content/Book/empathetic-leadership/
 topic: empathetic-leadership
 category: Empathetic Leadership
