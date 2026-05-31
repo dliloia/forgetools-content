@@ -1,48 +1,38 @@
 ---
-title: "You Don't Know the Answer. Say So."
+title: "How to Handle Questions You Don't Know the Answer to"
 book_chapter: "presentations"
-word_count: 863
+word_count: 808
 source_idea: How to handle questions you dont know the answer to.md
 ---
 
-## The Question You Can't Answer
+## When You Don't Know the Answer
 
-I've been in front of rooms of various sizes for most of my adult life. Sales presentations, team all-hands, executive briefings, job interviews on both sides of the table. And the thing that used to worry me most about any of them wasn't the content, it wasn't the slides, it wasn't even the audience. It was the Q&A.
+I can tell you the exact shape of the silence that follows a question you don't know how to answer. I've been in it, and I've watched hundreds of other people be in it. It's about two seconds long, and in those two seconds, something important happens. The presenter decides whether to be honest or to perform confidence they don't actually have.
 
-Specifically, it was the fear of someone raising a hand and asking something I didn't know the answer to.
+Most people perform.
 
-I think this fear is close to universal for people who present professionally. It doesn't matter how much you know about the topic, you walk in worried about the one question that lands in the gap. And when it arrives, the instinct is almost always the same: start talking and figure it out as you go.
+I understand why. The room is full of people who showed up because you're supposed to know things. You've spent time preparing. You've built credibility in the first part of your talk. And then someone asks the one question you can't answer, and it feels like the ground tilts.
 
-That instinct is wrong, and I learned this the uncomfortable way.
+But here's what I've learned after decades of watching people present, lead meetings, pitch proposals, and answer hard questions from people above them in the organization: the bluff is almost always worse than the gap.
 
-Early in my career I was presenting to a group of stakeholders, pretty senior people, and one of them asked a question about a specific metric I hadn't looked at. I knew enough to be dangerous, which is the worst possible condition for someone who's about to improvise. I started talking. I filled maybe ninety seconds with words that circled the question without actually answering it, and when I stopped, the room was quiet in a way that rooms get quiet when everyone just watched someone drown.
+I once watched a director at a company I worked for get destroyed in a quarterly business review. Not because he didn't know enough about his business, he did. But someone asked him about a competitive pricing change that had been in the news that week, and instead of saying he hadn't had time to dig into it yet, he invented an explanation. It was a confident, detailed, plausible explanation. It was also wrong, and two people in the room knew it immediately. The slide deck didn't matter after that. His credibility in that room took months to recover.
 
-Nobody was cruel about it. But the dynamic had shifted. Everything I'd said before that moment got a little softer in their minds, a little less reliable. Not because my answer was wrong, I may have been directionally correct. But because they'd just watched me pretend, and pretending is what gets remembered.
+That's not a failure of knowledge. That's a failure of judgment in a single moment.
 
-The thing I should have said was five words: I don't know, let me follow up. That's it. Five words. Instead I chose ninety seconds of noise, and I paid for it.
+The people who handle these moments best have usually just made a quiet decision at some point in their career. They decided that their reputation is built on reliability, not omniscience. Those are not the same thing, and chasing the wrong one is a losing game.
 
-The reason I didn't say the five words is the same reason most people don't. I believed, in that moment, that not knowing the answer was a verdict on my competence. That saying so out loud would confirm something I was afraid the room already suspected.
+What actually works is almost insultingly simple. Say you don't know. Say what you do know that's close to the question. Make a specific, real commitment to follow up. Then move on without making the moment bigger than it is.
 
-But look at what actually happened. The ninety seconds of noise confirmed it far more effectively than the five words ever would have.
+The specific commitment is where most people underinvest. "I'll look into that" is a verbal gesture. It ends the discomfort without creating accountability. Nobody takes it seriously, including you. But "I'll pull that data and send it to you by Thursday" is a promise. It's concrete. It means something. And if you follow through on it, it actually strengthens the interaction. You turned a gap into a demonstration of reliability, which is worth considerably more than having known the answer in the first place.
 
-Competence doesn't mean knowing everything. That's not what any experienced audience is evaluating when they watch you present. They're evaluating whether you understand the material, whether you've done the thinking, whether you're someone they can trust. And trust is built on honesty, not on omniscience.
+There's also a version of this that involves the room itself. In my experience, presenters underuse the other people in the space. If someone asks a question that's genuinely better suited to a colleague who's sitting right there, turn to them. Direct it honestly. Not as a dodge, but as actual facilitation. The room doesn't feel cheated when they get a good answer from someone who actually has it.
 
-The clearest signal you can send that you know your subject well is being precise about where your knowledge ends. That kind of precision requires real understanding. Bluffing requires none.
+The harder conversation is about preparation, because some questions you can't answer aren't really unexpected. They're predictable, and you just didn't do the work to get ready for them. Before any significant presentation, I've made a habit of sitting down and asking myself what the three most uncomfortable questions someone could ask would be. Not the softballs, the real ones. If I can't answer them in my apartment on a Tuesday morning, I'm not ready to walk into that room.
 
-There's also something worth saying about what a composed "I don't know" demonstrates in real time. It means you have the self-awareness to know what you know. It means you're not going to waste people's time with noise. It means you're confident enough in the substance of what you do know that you're not scrambling to paper over the gaps.
+Honest "I don't know" moments are different from preparation failures. One is a knowledge gap that nobody could reasonably fill. The other is a question you should have anticipated and didn't. Knowing the difference, and being honest with yourself about which one you're in, is most of the battle.
 
-Those are all things a room of experienced people will read correctly.
+What I've come to believe is that the fear underneath this isn't really about the question. It's about being found out. About the room deciding that you're less capable than they thought. The irony is that honesty is almost never what triggers that conclusion. What triggers it is watching someone squirm or bluff or over-explain their way around a simple gap. That's what erodes trust. That's what makes people wonder whether they can rely on you.
 
-After that early stumble, I started doing something before any significant presentation. I'd sit down and make a list, privately, of the questions I'd most like to avoid. Not the easy ones. The uncomfortable ones. The ones where my answer was incomplete, or where I hadn't thought it all the way through, or where there was a counterargument I couldn't fully rebut.
+The leaders I've admired most in long careers have been comfortable saying "I don't know" with the same ease they use to answer something they do know. Not performatively. Not to seem humble. Just as a matter of fact. It's a small behavior with a long-run effect. It signals that when they do say they know something, you can take it to the bank.
 
-Then I'd decide, for each one, what I was actually going to say if it came up. Not a scripted answer, just a decision. Is this a "I don't know, I'll find out" situation? Is it a "here's the partial answer, and here's what's still uncertain" situation? Is it something I can redirect to what I do know, if the redirect is genuinely useful to the person asking?
-
-Making that decision in advance means you're not making it under pressure. The question lands and you execute. The composure looks effortless because the work happened earlier in a quiet room.
-
-I still do this. Before anything that matters, I run through the questions I don't want, and I decide how to handle each one. It takes maybe fifteen minutes. It's worth every one of them.
-
-The thing that took me longest to understand is that this skill extends beyond Q&A. The willingness to say "I don't know" or "that data is from last quarter and I want to verify it before we act on it" or "I'm confident in the direction, but this specific number could move" is a form of intellectual honesty that changes how people relate to everything you say.
-
-When you're willing to name uncertainty out loud, your certainty becomes worth more. The audience has evidence that you know the difference. And when you tell them you're sure about something, they believe you, because they've already seen you admit when you weren't.
-
-That's the reputation that actually makes you credible in front of a room. Not knowing everything. Knowing what you know.
+That's the thing worth building. Not the ability to have an answer for everything. The kind of track record where an honest gap doesn't define you, because everything else does.
