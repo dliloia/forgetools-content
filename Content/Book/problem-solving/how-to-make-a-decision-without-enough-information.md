@@ -1,46 +1,44 @@
 ---
 title: "How to Make a Decision When You Don't Have Enough Information"
 book_chapter: "problem-solving"
-word_count: 1025
+word_count: 1000
 source_idea: How to make a decision when you dont have enough information.md
 ---
 
-## Deciding Without the Full Picture
+## Deciding in the Dark
 
-The first time I managed a team large enough that decisions started having real consequences, I developed a habit I wasn't proud of. When a call was hard, I'd ask for more information. Not because I genuinely needed it. Because asking for more information felt like doing something, and it bought me time, and it meant that if the decision went sideways, I could point to the process and say I was being thorough.
+There's a particular kind of meeting I've been in more times than I can count. It's the third or fourth time the same decision has come back to the table. Someone always asks whether we've heard back from the data team yet. Someone else says we should probably wait until the customer research is complete. A third person wonders aloud if we should loop in finance before moving forward.
 
-I learned a word for that later. The word is avoidance.
+And the decision dies again.
 
-It's common enough that I've watched smart, capable managers do it their entire careers without ever recognizing it for what it is. They couch it in language about diligence, about data-driven culture, about not wanting to move too fast. All of that can be legitimate. But most of the time when I heard it, I recognized the real thing underneath, because I'd felt it myself. It's the fear of being the person who made the call that didn't work out.
+No one in that room is being malicious. Most of them are smart, conscientious people who genuinely believe that more information will make the decision better. Sometimes they're right. More often, they've confused the feeling of gathering data with the act of making progress.
 
-The problem is that waiting is never free.
+The hardest thing I've had to learn as a manager, and I mean genuinely learn, not just understand conceptually, is that deciding under uncertainty is a skill. A real one. And like most real skills, it doesn't feel natural until you've built it the hard way.
 
-There's a mental model I come back to often when I'm teaching this, and it goes like this: every decision has a window. Inside that window, the decision is useful. It will move things. It will create value or prevent damage or open a door. Outside that window, the decision becomes either irrelevant or a lot more expensive to make. The information you're waiting for almost never arrives while the window is still open. It shows up after. At which point you have a great answer to a question that no longer matters.
+I started working at thirteen. I've been making judgment calls in professional settings for over three decades at this point, and I still catch myself sometimes reaching for one more data point before I'm willing to commit. The pull toward certainty is deep. It feels responsible. It feels like the rigorous, professional thing to do.
 
-I watched this happen with a hiring decision once that I was part of. We had a strong candidate. The consensus was there, everyone who interviewed the person liked them. But there was a question about whether the team's structure might change in the next quarter, and leadership wanted to wait to see how that shook out before extending an offer. Reasonable on its face. But we waited six weeks, the candidate took another job, and the team structure didn't change anyway. We spent four more months searching for someone we'd already found.
+But rigor and delay are not the same thing, and the people I've watched build the best careers and the best teams are the ones who figured that out early.
 
-The information we were waiting for arrived. It just didn't matter anymore.
+The first thing I learned is that not all decisions deserve the same treatment. Some decisions, if you get them wrong, are genuinely hard to recover from. You've made a significant hire, signed a long-term contract, shipped something to a customer that can't be unshipped. Those decisions deserve careful deliberation, and spending real time getting them right is worth the cost.
 
-What I've learned over time is that the decisions most worth getting right are also usually the ones with the least complete information. That's not coincidence. It's because the easy, clear decisions get made automatically, by junior people or by process. The hard ones, the ones that land on your desk, land there because the picture is murky. Waiting for it to clear is, in a lot of cases, waiting forever.
+But most decisions aren't like that. Most decisions are reversible. You can try a thing, see what happens, and change course. When I look back at the organizational paralysis I've seen across my career, the vast majority of it was people applying permanent-decision energy to temporary-decision problems. They were treating "how should we handle the weekly team sync" with the same gravity as "should we restructure the entire sales territory."
 
-So how do you actually move?
+The first question I ask now when a decision is stalled is whether getting it wrong would be permanent. If the answer is no, we move.
 
-The first thing I do is force myself to name the specific decision. Not the situation, not the context, not the competing considerations. The actual choice. Often when I do that, the decision is smaller and more tractable than the fog around it suggested. People sometimes spend weeks discussing a situation when the actual fork in the road is a single, concrete question with two or three options.
+The second thing I learned is that information requests are sometimes honest and sometimes not. I don't mean people are lying. I mean that the request for more data is sometimes genuinely about the data, and sometimes it's about something else entirely. Sometimes it's about discomfort with ownership. Sometimes it's about organizational dynamics that make it easier to stay in research mode than to commit to a position someone else might challenge. Sometimes it's just anxiety wearing a professional costume.
 
-The second thing is to answer two questions honestly. What does waiting cost? Not in a theoretical sense, but in real terms. Time, money, opportunity, team morale. And then: how reversible is being wrong? These two questions together usually do more work than any amount of additional analysis. A low cost of waiting and a high cost of being wrong is a case for patience. A high cost of waiting and a mostly reversible outcome is almost always a case for moving.
+A diagnostic I've used for years is simple. I ask: what would we decide if the answer to the open question is yes, and what would we decide if the answer is no? If the answer is the same either way, the information isn't actually needed. We've already made the decision, we just haven't said so out loud. Getting honest about that is usually enough to get things moving.
 
-Most decisions are more reversible than they feel in the moment. That's the thing I had to learn to see. We treat operational decisions like they're permanent, when most of them can be corrected in a month if we're paying attention. The decisions that are genuinely irreversible are a small fraction of the calls we agonize over. And those do deserve more caution. But they're not the majority, and treating every decision as if it's carved in stone is how you grind an organization to a halt.
+One thing that's helped me build this skill over time is learning to work backward from what I already know. When things feel murky, I'll actually write it out: what do we know for certain, what do we believe with confidence but can't fully prove, and what are we genuinely in the dark about. Most of the time, the certain column is longer than it felt before I started writing. And looking at the uncertain column, I can usually identify which items are actually central to the decision and which ones are peripheral. The peripheral unknowns don't need to stop anything.
 
-The third thing is to set a deadline for the decision itself. Not a deadline for the project it's connected to. A deadline for the choice. By this date, absent new information that changes the fundamental picture, we will decide. And we will name a default. If we haven't chosen by then, the default kicks in. Having a default makes the cost of inaction concrete. Suddenly it's not "we're still evaluating," it's "if we don't move by Friday, we're choosing option B." That reframes the conversation.
+I ran a team once that had to make a significant resourcing decision without a key piece of market data that was still three weeks out. Rather than wait, we named our assumptions explicitly. We wrote them down: we're assuming segment growth continues at roughly current pace, we're assuming the competitive dynamic doesn't shift before we're in-market, we're assuming our operational capacity holds at current levels. Then we made the call.
 
-There's a deeper thing I want to say here, one that took me a long time to actually internalize.
+Two of those three assumptions held. One didn't, and we had to adjust. But because we'd named the assumptions up front, we knew exactly what broke down and why. We weren't starting from scratch figuring out what went wrong. We already had the map. That experience changed how I think about decisions under uncertainty, because it showed me that the goal isn't to eliminate assumptions. It's to make them visible so you can track them honestly.
 
-The quality of a decision is not the same as the quality of the outcome. You can make a good decision and have it go wrong. You can make a poor decision and have it work out. What determines whether you're a good decision-maker over time is not your win rate on individual calls. It's whether your process was sound given what you knew, and whether you corrected fast when the results came in.
+The last piece is probably the least glamorous but also the most important. You have to set a deadline and hold it.
 
-The best operators I've been around have made peace with that. They know they're going to be wrong. They plan for it. They watch results with clear eyes and don't get defensive when reality doesn't match the call. They adjust. And because they move, they get more repetitions, and more repetitions is how you actually get better at this.
+Open-ended information gathering expands to fill available time. That's not analysis, it's a form of procrastination that feels like work. When I set a date with a team and say we're deciding Thursday regardless, the dynamic shifts immediately. People stop treating the search as infinite and start triaging. They ask which information we actually need by Thursday, and which is just nice to have. The constraint creates the prioritization that the open horizon never produces.
 
-The managers who wait for certainty get fewer reps. They also tend to believe they have a higher hit rate than they do, because they've filtered out the decisions where the window closed before they moved and never had to live with the consequences.
+And when Thursday comes, we decide with what we have. Sometimes we're right. Sometimes we're not. When we're not, we say so fast, figure out where the thinking broke down, and adjust.
 
-Courage is part of the equation. There is no framework that eliminates the discomfort of acting under uncertainty. But discomfort is not the same as danger. At some point you look at what you have, you answer the two questions, and you move.
-
-That is, in the end, what the job requires.
+The managers I've respected most across this career didn't have better information than the people around them. They had a higher tolerance for imperfect information, a clearer sense of when good enough actually was, and the discipline to own the call when it was time. That combination is rarer than it should be. It's also entirely learnable if you're willing to practice it.
