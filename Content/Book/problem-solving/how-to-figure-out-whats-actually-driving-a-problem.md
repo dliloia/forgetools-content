@@ -1,34 +1,40 @@
 ---
 title: "How to Figure Out What's Actually Driving a Problem"
 book_chapter: "problem-solving"
-word_count: 952
+word_count: 893
 source_idea: How to figure out whats actually driving a problem.md
 ---
 
-## Data, Gut, and the Real Work of Diagnosis
+## The Most Expensive Mistake in Management
 
-There's a kind of meeting I've sat in hundreds of times. Something has gone wrong, performance is down or a number moved in the wrong direction, and before anyone has actually looked at the problem, the room has already divided. Half the people think they know what's happening and want to fix it now. The other half want to see the data first.
+The most expensive mistake I've watched managers make, over and over, across a career long enough that I've lost count of the examples, is solving the wrong problem.
 
-Both groups have a point, and neither group is going to solve the problem alone.
+Not solving it badly. Solving the wrong one. The resources are real, the effort is genuine, the intent is good, and the problem they fixed wasn't the one causing the pain.
 
-I spent a long time figuring out why smart, experienced people kept getting this wrong. What I landed on is that most people treat data and intuition as rival philosophies, as if choosing one means rejecting the other. But that's not how the best problem-solvers I've known actually operate. They use both, in a specific order, and they understand what each one is actually good for.
+It's a particular kind of failure because it looks like competence from the outside. A decision was made, action was taken, a plan was executed. And then six months later, nothing is better, and nobody can quite figure out why.
 
-Data is a record. It tells you the shape of what happened: the scale, the timing, the distribution, which populations were affected and which weren't. That's genuinely valuable. Without it, you're estimating all of those dimensions, and estimates compound errors fast. But data almost never tells you why. You can build the most sophisticated analytics environment in the world and still stare at a dashboard for an hour with no idea what actually caused the thing you're looking at. The data shows you the crater. It doesn't tell you what hit.
+I've been on both sides of this. I've been the person who pushed a solution confidently based on what the data showed, and I was wrong. I've also been the person in the room who had a strong gut feeling about what was really going on and couldn't get anyone to take it seriously because it wasn't in the numbers. Neither one feels good in retrospect.
 
-Intuition works differently. Your gut is your pattern library, everything you've seen compressed into a fast signal. When an experienced manager walks into a room and knows something is wrong before anyone has said anything specific, that's not a mystical gift. It's the brain running a rapid comparison against years of prior situations and flagging an anomaly. The problem is that most people can't explain what their gut is responding to, and if you can't explain it, you can't verify it.
+What I've come to believe, and what I try to teach anyone I'm working with, is that data and gut aren't in conflict. Managers treat them like competing sources of authority, where you have to pick one, but that's the wrong frame entirely. They're different instruments measuring different things, and a competent diagnostician uses both.
 
-There's also a harder problem with gut-driven diagnosis. Your intuition is built from your own experience, which means it inherits all your blind spots. If the last four problems you solved had the same root cause, your brain will pattern-match toward that cause whether or not it fits the current situation. I've made fast, confident calls that were exactly right. I've also made fast, confident calls that were solving last year's problem in this year's situation. The difference usually came down to whether I'd paused long enough to ask: what is my gut actually responding to here? Can I name the specific signal?
+Here's the way I think about it. Data is retrospective. It captures what happened, how often, at what magnitude, over what time period. It is extraordinarily good at showing you where a pattern breaks, where an anomaly lives, where the trend stops holding. What it cannot do, ever, is tell you why. The "why" requires a different kind of investigation.
 
-The loop that actually works runs like this. Intuition goes first, but only to generate a hypothesis, not to reach a conclusion. Something feels off about lead quality, not sales execution. Write it down. Then you take that hypothesis to the data and ask a specific question: if this hypothesis were true, what would I expect to see? Then you look for those signals. If they're there, you have traction. If they're not, your intuition was pointing in the wrong direction, and that's useful too. It means you go back and generate a new hypothesis instead of charging ahead and optimizing the wrong thing.
+Gut, on the other hand, is experience doing pattern-matching in the background. After enough time managing people and teams and organizations, you start to recognize shapes. The high performer who goes suddenly quiet. The team that claims everything is fine but whose energy is off. The project that looks green in every status report but that nobody talks about with genuine enthusiasm. These are real signals, and an experienced manager who pays attention will pick them up weeks or months before they surface in any metric.
 
-The loop also runs the other direction. Sometimes data surfaces something your gut never flagged. A segment behaving differently from the rest. A correlation between two things you weren't tracking together. When that happens, the instinct is to explain it immediately, to map it onto something familiar. Resist that. Sit with it. Let your gut catch up to what the data found. The most experienced operators I've known are good at this. They see something unexpected in a report and immediately start scanning their recent observations and conversations for something that connects. The data found a thread; now intuition helps you pull it.
+The problem is that gut is also susceptible to all the things human cognition is susceptible to. Confirmation bias is the big one. When you have a strong intuition about what's wrong, it is genuinely difficult to look at evidence that contradicts it and take it seriously. The feeling of being right and the feeling of being right but missing something can be nearly indistinguishable from the inside.
 
-The part that gets left out of most conversations about this is the human layer. Data and gut both operate at a distance from the actual experience of doing the work. The person running the process, handling the customer, executing the task, usually knows what's wrong. They've been watching it happen. They've adapted their behavior around it. They just haven't been asked, or they've learned that no one really wants to hear it until there's already a formal problem to point to.
+So the process I've settled on is this: let the data show you where the problem is, then let your gut generate the hypotheses about why. Not conclusions. Hypotheses. Then test them against the data, looking specifically for evidence that would disprove them, not confirm them. That's the step most people skip, and skipping it is where things go wrong.
 
-Some of the best diagnoses I've been part of ended with exactly that moment. Weeks of analysis, heated debates about which number to trust, competing hypotheses from smart people who all had real reasons for their positions. And then someone talked to the person actually doing the work, and that person said, in plain language, what was broken and roughly why. The data had been pointing at it. The gut had been circling it. But the direct conversation made it undeniable in thirty seconds.
+Then talk to people. This part sounds obvious, but it gets cut when schedules are full and there's pressure to move fast. Some of the most important diagnostic information I've ever gotten came from a four-minute informal conversation with someone who was close to the problem and had been waiting for someone to ask the right question. Not a formal interview, not a survey, just a genuine "I'm trying to understand what's actually happening here, what am I missing?"
 
-That's not a failure of the data or the intuition. It's a reminder that both tools are most useful when they're pointing you toward the right conversation, not replacing it.
+The patience required to do this well is harder than the process itself. When something is broken, the pressure to fix it is real, and sitting with a problem while you investigate it feels like abdication. It isn't. Solving the wrong problem is abdication. Taking the time to get the diagnosis right is the job.
 
-The sequence I'd suggest is simple. Write down your gut read before you pull any data, because if you don't, it will quietly bias what you look for and what you see. Then ask what the data would look like if your hypothesis were true, and go look for those specific signals. Then look for surprises, the things in the data you didn't expect, because surprises are usually where the real problem lives. And then talk to the people closest to the work, because they're often already holding the answer.
+I spent a chunk of my career in environments where speed was everything, where the expectation was that you would identify a problem and move on it within the same conversation. And I learned in those environments that fast diagnosis requires more rigor, not less. The way you move fast without blowing up the wrong thing is to be very precise about what you actually know versus what you're inferring.
 
-When your data and your intuition agree, you move fast. When they disagree, you've found something worth understanding. That tension isn't a detour. It's usually the beginning of the real diagnosis.
+What do you actually know? State it plainly. What are you inferring? State that plainly too, and call it an inference. What would you need to see to feel confident the inference is right? Go get that. The whole thing can move quickly if you're disciplined about separating those three things.
+
+The failure mode I see most often is the third category bleeding into the first. The manager treats an inference as a known fact, builds a plan on top of it, and then is genuinely confused when the plan doesn't work. Because from their perspective, they understood the problem. They didn't. They believed their hypothesis without testing it.
+
+Data keeps you honest about what you actually know. Gut keeps you curious about what the data isn't measuring. Neither one is enough on its own, and neither one is optional.
+
+The goal is a diagnosis you'd bet real money on, because when you make a change in an organization, you are betting real resources on it. The quality of your diagnostic process is directly proportional to the quality of your outcomes. That's not a soft claim. It's arithmetic.
