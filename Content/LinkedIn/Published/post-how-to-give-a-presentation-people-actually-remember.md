@@ -13,3 +13,5 @@ The fix starts before you open PowerPoint. If you can't say in one sentence what
 Strong delivery and clean slides matter, but they're downstream of that clarity. Get the outcome right first, and the rest of the decisions become a lot easier to make.
 
 More on this: https://www.managerforge.com/insights/how-to-give-a-presentation-people-actually-remember
+
+#Leadership #Management #Communication #Presentations
