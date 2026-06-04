@@ -1,5 +1,5 @@
 ---
-title: "Performance Reviews Should Never Be a Surprise: How Consistent 1:1s Make Review Season Painless"
+title: Performance Reviews Should Never Be a Surprise: How Consistent 1:1s Make Review Season Painless
 slug: performance-reviews-should-never-be-a-surprise
 type: article
 status: draft
@@ -10,10 +10,13 @@ created: 2026-04-04
 category: ARTICLE
 tags: [Performance management, Feedback & recognition, Organization & systems]
 isPublic: true
-excerpt: "If you've been running consistent 1:1s all year, the performance review writes itself. If you haven't, you're scrambling. Here's the system that makes review season your easiest week."
-featuredQuote: "If anything in a performance review is a surprise to the employee, the manager has failed."
+excerpt: If you've been running consistent 1:1s all year, the performance review writes itself. If you haven't, you're scrambling. Here's the system that makes review season your easiest week.
+featuredQuote: If anything in a performance review is a surprise to the employee, the manager has failed.
 readingTime: 10
 book_worthy: true
+archived_at: 2026-06-04T21:18:05.454Z
+archived_reason: voice_audit_failed
+audit_summary: ✗ 1 BLOCKING violation: | - [BULLET_LIST_STRUCTURE] Bullet and numbered lists are not allowed in article prose. Convert the analysis into paragraphs. | "1. **What's going well.** Specific work, specific behaviors, specific impact. 2. **What needs development.** Again, specific. Not "communication." But "struggled to articulate the tradeoffs in Tuesday's architecture review." 3. **Action items.** What did we agree they'd work on? What did I commit to?"
 ---
 
 # Performance Reviews Should Never Be a Surprise: How Consistent 1:1s Make Review Season Painless
