@@ -2,8 +2,6 @@
 
 *A management title doesn't come with trust. Trust is built through boring, consistent behavior over time. Here's exactly how to earn it, and how fast you can lose it.*
 
-# How to Build Trust with Your Team (When Trust Isn't Given, It's Earned)
-
 I want to tell you about two managers I worked under early in my career. Both were smart. Both were experienced. Both had the title and the authority. One of them I would have followed anywhere. The other one I left within six months.
 
 The difference was trust. And trust had nothing to do with charisma, intelligence, or management theory. It had everything to do with behavior.
@@ -28,23 +26,9 @@ The performance difference between a low-trust team and a high-trust team is eno
 
 I think about trust like a bank account. Every interaction with your team is either a deposit or a withdrawal. There is no neutral transaction.
 
-Deposits are small and consistent:
-- Showing up to 1:1s on time, every week
-- Following through on something you said you'd do
-- Giving specific, timely feedback
-- Remembering something personal they told you
-- Admitting when you were wrong
-- Defending them to your boss when they're not in the room
-- Asking for their input before making a decision that affects them
+The deposits usually look boring. You show up to the 1:1 on time. You follow through on something you said you'd do. You give specific feedback while it still matters. You remember something personal they told you last week. You admit when you were wrong. You defend them to your boss when they're not in the room. You ask for their input before making a decision that affects their work. None of those moments feels dramatic when it happens. That's why managers underestimate them.
 
-Withdrawals are also often small, but they compound:
-- Canceling a 1:1
-- Forgetting something they told you
-- Taking credit for their work (even accidentally)
-- Making a decision that affects them without asking
-- Giving vague feedback or no feedback at all
-- Saying "let me look into that" and never doing it
-- Being inconsistent in how you treat different team members
+Withdrawals are usually just as ordinary, which is what makes them dangerous. You cancel the 1:1 because something else came up. You forget something they told you that mattered to them. You take credit for the work, even a little, even by accident. You make a decision that changes their day without asking them first. You give vague feedback because you don't want to deal with the discomfort of being clear. You say, "Let me look into that," and then you never do. You treat one team member with patience and another with irritation, and you act like nobody notices. They do.
 
 Here's the asymmetry that makes trust so hard: deposits are small and slow. Withdrawals are fast and large. It takes months of consistent behavior to build meaningful trust. It takes one broken promise to damage it. And it takes one public betrayal to destroy it entirely.
 
@@ -54,7 +38,7 @@ This isn't fair. But it's reality. And understanding the asymmetry is the first 
 
 Over the course of my career, managing hundreds of people, I've distilled trust-building down to five concrete behaviors. None of them are flashy. All of them work.
 
-### 1. Show Up Consistently
+### Show Up Consistently
 
 This is the most basic trust-builder and the one most managers get wrong.
 
@@ -64,7 +48,7 @@ Predictability sounds boring. It is. That's the point. Boring reliability is the
 
 The most underrated management skill is being boringly, relentlessly consistent.
 
-### 2. Follow Through on Everything
+### Follow Through on Everything
 
 I cannot overstate this one.
 
@@ -76,7 +60,7 @@ I keep a simple list after every 1:1 of the things I committed to. Before the ne
 
 Even the act of acknowledging that you haven't followed through yet builds trust. It shows you're tracking it, you take it seriously, and you're accountable for your commitments.
 
-### 3. Tell the Truth, Even When It's Uncomfortable
+### Tell the Truth, Even When It's Uncomfortable
 
 Trust requires honesty. Not brutal honesty. Not "I'm just being direct." Real honesty, delivered with care and context.
 
@@ -86,7 +70,7 @@ I once made a project staffing decision that was clearly wrong. I put the wrong 
 
 My team's trust in me went up, not down. Not because I made a mistake, but because I owned it. People don't expect perfection from their managers. They expect honesty. When you pretend everything is fine, when you spin bad decisions as strategic choices, when you dodge accountability, your team sees right through it. And every time they catch you managing the narrative instead of telling the truth, trust erodes.
 
-### 4. Defend Your Team When They're Not in the Room
+### Defend Your Team When They're Not in the Room
 
 This is the trust behavior that most managers never think about, and it might be the most important one.
 
@@ -98,7 +82,7 @@ I had a team member whose project was criticized in an executive review. The cri
 
 That single moment built more trust than three months of 1:1s. Because it proved something that words in a 1:1 can't prove: when it costs something to defend them, I will.
 
-### 5. Ask Before You Decide
+### Ask Before You Decide
 
 This one is subtle but powerful.
 
