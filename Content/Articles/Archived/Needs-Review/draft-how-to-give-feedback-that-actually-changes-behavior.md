@@ -1,5 +1,5 @@
 ---
-title: "How to Give Feedback That Actually Changes Behavior"
+title: How to Give Feedback That Actually Changes Behavior
 slug: how-to-give-feedback-that-actually-changes-behavior
 type: article
 status: draft
@@ -10,10 +10,13 @@ created: 2026-04-04
 category: ARTICLE
 tags: [Feedback & recognition, Communication, Difficult conversations]
 isPublic: true
-excerpt: "Most feedback fails not because of what's said, but how and when it's delivered. Here's a specific framework for giving feedback that employees actually hear, internalize, and act on."
-featuredQuote: "When you avoid giving feedback, you think you're being kind. You're not. You're being selfish. You're prioritizing your own comfort over your employee's growth."
+excerpt: Most feedback fails not because of what's said, but how and when it's delivered. Here's a specific framework for giving feedback that employees actually hear, internalize, and act on.
+featuredQuote: When you avoid giving feedback, you think you're being kind. You're not. You're being selfish. You're prioritizing your own comfort over your employee's growth.
 readingTime: 11
 book_worthy: true
+archived_at: 2026-06-04T21:18:03.676Z
+archived_reason: voice_audit_failed
+audit_summary: ✗ 2 BLOCKING violations: | - [THREE_SHORT_FRAGMENTS] (¶46) Three or more very short sentences (≤4 words, no main verb) in a row. The classic AI cadence Dave hand-edits out. | "Specific document. Specific problems. Specific cost." | - [BULLET_LIST_STRUCTURE] Bullet and numbered lists are not allowed in article prose. Convert the analysis into paragraphs. | "1. **Was I specific enough?** If the person doesn't know exactly what to do differently, the feedback wasn't actionable. 2. **Is the relationship strong enough?** If trust is low, the message won't penetrate no matter how well it's crafted. 3. **Does the person agree that this matters?** Sometimes the disconnect isn't about understanding, it's about priority. They heard you. They just don't think it's important. That's a different conversation."
 ---
 
 # How to Give Feedback That Actually Changes Behavior
