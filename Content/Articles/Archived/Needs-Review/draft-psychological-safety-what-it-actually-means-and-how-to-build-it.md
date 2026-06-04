@@ -1,5 +1,5 @@
 ---
-title: "Psychological Safety at Work: What It Actually Means and How to Build It"
+title: Psychological Safety at Work: What It Actually Means and How to Build It
 slug: psychological-safety-what-it-actually-means-and-how-to-build-it
 type: article
 status: draft
@@ -10,10 +10,13 @@ created: 2026-04-04
 category: ARTICLE
 tags: [Team dynamics, Leadership philosophy, Communication]
 isPublic: true
-excerpt: "Psychological safety isn't about being comfortable. It's about whether people believe they can speak up without punishment. Here's how to build it in real conversations, not just workshops."
-featuredQuote: "When someone tells me something went wrong, the first words out of my mouth are 'thank you for telling me.' Every time. Even when the news is terrible."
+excerpt: Psychological safety isn't about being comfortable. It's about whether people believe they can speak up without punishment. Here's how to build it in real conversations, not just workshops.
+featuredQuote: When someone tells me something went wrong, the first words out of my mouth are 'thank you for telling me.' Every time. Even when the news is terrible.
 readingTime: 11
 book_worthy: true
+archived_at: 2026-06-04T21:18:07.060Z
+archived_reason: voice_audit_failed
+audit_summary: ✗ 4 BLOCKING violations: | - [THREE_SHORT_FRAGMENTS] (¶19) Three or more very short sentences (≤4 words, no main verb) in a row. The classic AI cadence Dave hand-edits out. | "Not talent. Not experience. Not methodology." | - [THREE_SHORT_FRAGMENTS] (¶60) Three or more very short sentences (≤4 words, no main verb) in a row. The classic AI cadence Dave hand-edits out. | "It's just two people. There's no audience. There's less social risk." | - [THREE_SHORT_FRAGMENTS] (¶65) Three or more very short sentences (≤4 words, no main verb) in a row. The classic AI cadence Dave hand-edits out. | "A sharp reaction. A public criticism. A moment of inconsistency." | - [OPENING_PARAGRAPH_GUARD] (¶1) The first paragraph contains a stabby fragment beat. Openers set the tone for the entire article — fuse or rewrite. (Substantive triple-anaphora is OK; this is not.) | "Clear product direction. Reasonable deadlines."
 ---
 
 # Psychological Safety at Work: What It Actually Means and How to Build It
