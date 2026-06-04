@@ -1,5 +1,5 @@
 ---
-title: "The Quiet High Performer: Why Your Best Employee Is About to Leave and How to Stop It"
+title: The Quiet High Performer: Why Your Best Employee Is About to Leave and How to Stop It
 slug: the-quiet-high-performer-problem
 type: article
 status: draft
@@ -10,10 +10,13 @@ created: 2026-04-04
 category: ARTICLE
 tags: [Career development, Feedback & recognition, Personal wellbeing]
 isPublic: true
-excerpt: "Every team has one: the person who delivers great work, never complains, and never asks for anything. They're also the most likely to leave without warning. Here's how to keep them."
-featuredQuote: "Your loud problems will always demand your attention. Your quiet high performers will never demand it. That's exactly why you need to give it to them intentionally, consistently, and before it's too late."
+excerpt: Every team has one: the person who delivers great work, never complains, and never asks for anything. They're also the most likely to leave without warning. Here's how to keep them.
+featuredQuote: Your loud problems will always demand your attention. Your quiet high performers will never demand it. That's exactly why you need to give it to them intentionally, consistently, and before it's too late.
 readingTime: 10
 book_worthy: true
+archived_at: 2026-06-04T21:18:11.913Z
+archived_reason: voice_audit_failed
+audit_summary: ✗ 1 BLOCKING violation: | - [BULLET_LIST_STRUCTURE] Bullet and numbered lists are not allowed in article prose. Convert the analysis into paragraphs. | "- Consistently meets or exceeds expectations without hand-holding - Rarely brings issues or concerns to 1:1s - Has not asked for a promotion, raise, or role change in the past year"
 ---
 
 # The Quiet High Performer: Why Your Best Employee Is About to Leave and How to Stop It
