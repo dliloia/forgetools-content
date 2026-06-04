@@ -1,5 +1,5 @@
 ---
-title: "The Mistakes Every New Manager Makes (And How to Avoid Them)"
+title: The Mistakes Every New Manager Makes (And How to Avoid Them)
 slug: the-mistakes-every-new-manager-makes-and-how-to-avoid-them
 type: article
 status: draft
@@ -10,10 +10,13 @@ created: 2026-04-04
 category: ARTICLE
 tags: [Leadership philosophy, Communication, Delegation]
 isPublic: true
-excerpt: "New managers make predictable mistakes, not because they're bad but because nobody told them what the job actually requires. Here are the ones I see every time, and how to dodge them."
-featuredQuote: "Your job is no longer to do the work. Your job is to make sure the work gets done, by building people who can do it without you."
+excerpt: New managers make predictable mistakes, not because they're bad but because nobody told them what the job actually requires. Here are the ones I see every time, and how to dodge them.
+featuredQuote: Your job is no longer to do the work. Your job is to make sure the work gets done, by building people who can do it without you.
 readingTime: 12
 book_worthy: true
+archived_at: 2026-06-04T21:18:10.318Z
+archived_reason: voice_audit_failed
+audit_summary: ✗ 2 BLOCKING violations: | - [THREE_SHORT_FRAGMENTS] (¶56) Three or more very short sentences (≤4 words, no main verb) in a row. The classic AI cadence Dave hand-edits out. | "All of them. The goal isn't perfection. It's awareness." | - [BULLET_LIST_STRUCTURE] Bullet and numbered lists are not allowed in article prose. Convert the analysis into paragraphs. | "1. What's working well that I should absolutely not change? 2. What's broken that you wish someone would fix? 3. What do you need from me that you're not getting?"
 ---
 
 # The Mistakes Every New Manager Makes (And How to Avoid Them)
