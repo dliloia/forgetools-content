@@ -13,3 +13,5 @@ The hiding problem compounds quietly. A small mistake disclosed on day one costs
 If you're a manager and your culture makes mistakes feel dangerous to admit, you're not running a high-performing team. You're running a team that's very good at concealment. The fix isn't celebrating failure, it's making disclosure and ownership the behavior that actually gets rewarded. The fastest way to start is to go first.
 
 More on this: https://www.managerforge.com/insights/i-dont-trust-people-who-dont-make-mistakes
+
+#Leadership #Management #Trust #Accountability
