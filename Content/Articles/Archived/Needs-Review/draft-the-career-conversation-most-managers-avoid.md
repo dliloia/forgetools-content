@@ -1,5 +1,5 @@
 ---
-title: "The Career Development Conversation Most Managers Avoid (And How to Have It)"
+title: The Career Development Conversation Most Managers Avoid (And How to Have It)
 slug: the-career-conversation-most-managers-avoid
 type: article
 status: draft
@@ -10,10 +10,13 @@ created: 2026-04-04
 category: ARTICLE
 tags: [Career development, Difficult conversations, Goal setting]
 isPublic: true
-excerpt: "Most managers never ask their employees where they want to go. They're afraid of opening a door they can't close. Here's why that fear is costing you your best people."
-featuredQuote: "The manager who helps someone plan for their next step, even if it's somewhere else, earns more loyalty and longer tenure than the manager who pretends the question doesn't exist."
+excerpt: Most managers never ask their employees where they want to go. They're afraid of opening a door they can't close. Here's why that fear is costing you your best people.
+featuredQuote: The manager who helps someone plan for their next step, even if it's somewhere else, earns more loyalty and longer tenure than the manager who pretends the question doesn't exist.
 readingTime: 10
 book_worthy: true
+archived_at: 2026-06-04T21:18:08.648Z
+archived_reason: voice_audit_failed
+audit_summary: ✗ 3 BLOCKING violations: | - [THREE_SHORT_FRAGMENTS] (¶6) Three or more very short sentences (≤4 words, no main verb) in a row. The classic AI cadence Dave hand-edits out. | "The avoidance isn't laziness. It's fear. Specifically, it's three fears." | - [THREE_SHORT_FRAGMENTS] (¶23) Three or more very short sentences (≤4 words, no main verb) in a row. The classic AI cadence Dave hand-edits out. | "Stronger than compensation. Stronger than perks. Stronger than title." | - [BULLET_LIST_STRUCTURE] Bullet and numbered lists are not allowed in article prose. Convert the analysis into paragraphs. | "1. **To feel seen.** They want to know that their manager recognizes them as a person with ambitions, not just a resource with a task list. The simple act of asking "what do you want your career to look like?" signals that you see them as a whole person. 2. **To have a direction.** Even if the destination is unclear, people want to feel like they're moving. Forward momentum is motivating. Stagnation is corrosive. The career conversation creates direction, even when the path isn't perfectly defined. 3. **To know their manager is invested.** When a manager says "I want to help you get where you want to go," and then backs it up with actions, it transforms the relationship. The employee stops seeing the manager as someone who assigns tasks and starts seeing them as someone who is actively building their career."
 ---
 
 # The Career Development Conversation Most Managers Avoid (And How to Have It)
