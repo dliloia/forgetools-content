@@ -1,5 +1,5 @@
 ---
-title: "Busy Beats Bored, and Most People Get the Diagnosis Wrong"
+title: Busy Beats Bored, and Most People Get the Diagnosis Wrong
 type: article
 status: draft
 source_idea: busy-beats-bored.md
@@ -7,12 +7,15 @@ slug: busy-beats-bored
 isPublic: true
 category: ARTICLE
 tags: [Personal wellbeing, Leadership philosophy, Continuous learning, Team dynamics]
-excerpt: "Most people read boredom as stress and respond with more rest. Then they feel worse. The fix is almost always the opposite of what they think."
-featuredQuote: "The richness of life comes from voluntarily complicating it. Removing things does not relax you. It hollows you out."
+excerpt: Most people read boredom as stress and respond with more rest. Then they feel worse. The fix is almost always the opposite of what they think.
+featuredQuote: The richness of life comes from voluntarily complicating it. Removing things does not relax you. It hollows you out.
 readingTime: 6
 created: 2026-05-14
 platform: managerforge
 book_worthy: true
+archived_at: 2026-06-04T17:59:18.449Z
+archived_reason: duplicate_live_article:slug
+matched_live_slug: busy-beats-bored
 ---
 
 ## The Diagnosis Most People Get Wrong
