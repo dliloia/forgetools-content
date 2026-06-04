@@ -1,8 +1,8 @@
 ---
-title: "How to Build Trust with Your Team (When Trust Isn't Given, It's Earned)"
+title: How to Build Trust with Your Team (When Trust Isn't Given, It's Earned)
 slug: how-to-build-trust-with-your-team-when-trust-isnt-given
 type: article
-status: draft
+status: published
 source_idea: trust-is-earned.md
 topic: trust, leadership
 platform: both
@@ -10,10 +10,12 @@ created: 2026-04-04
 category: ARTICLE
 tags: [Leadership philosophy, Communication, Team dynamics]
 isPublic: true
-excerpt: "A management title doesn't come with trust. Trust is built through boring, consistent behavior over time. Here's exactly how to earn it, and how fast you can lose it."
-featuredQuote: "The most underrated management skill is being boringly, relentlessly consistent."
+excerpt: A management title doesn't come with trust. Trust is built through boring, consistent behavior over time. Here's exactly how to earn it, and how fast you can lose it.
+featuredQuote: The most underrated management skill is being boringly, relentlessly consistent.
 readingTime: 11
 book_worthy: true
+published_at: 2026-06-04T18:16:45.835Z
+published_url: https://www.managerforge.com/insights/how-to-build-trust-with-your-team-when-trust-isnt-given
 ---
 
 # How to Build Trust with Your Team (When Trust Isn't Given, It's Earned)
