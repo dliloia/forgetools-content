@@ -2,13 +2,15 @@
 title: "How to Give a Presentation People Actually Remember"
 source_idea: How to give a presentation that people actually remember.md
 audit_status: article-draft
-draft_slug: how-to-give-a-presentation-people-actually-remember
-article_draft: Content/Articles/Drafts/draft-how-to-give-a-presentation-people-actually-remember.md
-sanity_draft_id: drafts.4bd5c0e1-aaef-4032-b2bf-1fed02458ee5
 book_section: Content/Book/management/how-to-give-a-presentation-people-actually-remember.md
 audit_date: 2026-05-31
 surgical_retries: 1
 violations: 1 blocking, 0 warning
+status: published
+published_date: 2026-06-04
+published_url: https://www.managerforge.com/insights/how-to-give-a-presentation-people-actually-remember
+published_slug: how-to-give-a-presentation-people-actually-remember
+article_path: Content/Articles/Published/how-to-give-a-presentation-people-actually-remember.md
 ---
 
 ## Voice audit failed after 1 surgical-fix retry

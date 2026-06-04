@@ -1,17 +1,6 @@
----
-title: How to Give a Presentation People Actually Remember
-slug: how-to-give-a-presentation-people-actually-remember
-status: draft
-source_idea: rejected-how-to-give-a-presentation-people-actually-remember-2026-05-31.md
-created: 2026-06-04T21:28:35.198Z
-sanity_draft_id: drafts.4bd5c0e1-aaef-4032-b2bf-1fed02458ee5
-featured_image_status: ready
-featured_image_alt: How to Give a Presentation People Actually Remember
-book_section_path: Content/Book/management/how-to-give-a-presentation-people-actually-remember.md
-excerpt: Most presentations are forgotten before the audience hits the parking lot. That's not a content problem — it's a design problem. Here's how to fix it.
-featured_quote: Nobody remembers your slide deck. They remember how you made them feel about the problem.
-reading_time: 8
----
+# How to Give a Presentation People Actually Remember
+
+*Most presentations are forgotten before the audience hits the parking lot. That's not a content problem — it's a design problem. Here's how to fix it.*
 
 ## The Forgetting Starts Before You Finish
 
@@ -80,3 +69,7 @@ If they left the room understanding something they didn't understand before, tha
 The presentations that stick are the ones where something shifted. The audience walked in thinking one thing and walked out thinking something else. Or they walked in uncertain and walked out with a clear picture. That's the job.
 
 Build for that outcome from the first sentence you write to the last word you say. Everything else is just mechanics.
+
+---
+
+Originally published at [ManagerForge](https://www.managerforge.com/insights/how-to-give-a-presentation-people-actually-remember).
