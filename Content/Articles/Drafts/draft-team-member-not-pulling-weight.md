@@ -1,92 +1,90 @@
 ---
-title: When One Person Isn't Pulling Their Weight
+title: A Team Member Isn't Pulling Their Weight. Here's What to Do.
 slug: team-member-not-pulling-weight
 status: draft
 source_idea: draft-prompt-team-member-not-pulling-weight.md
-created: 2026-06-08T01:22:48.350Z
-sanity_draft_id: drafts.0fc2eb96-7c0f-4b9c-9672-5569edee4232
+created: 2026-06-08T06:41:00.684Z
+sanity_draft_id: drafts.9b0c2a64-e519-4d43-bb74-5bd8627be45e
 featured_image_status: ready
-featured_image_alt: When One Person Isn't Pulling Their Weight
+featured_image_alt: A Team Member Isn't Pulling Their Weight. Here's What to Do.
 book_section_path: Content/Book/management/team-member-not-pulling-weight.md
-excerpt: One person on your team is consistently underdelivering and others are starting to notice. Ignoring it punishes your best people, but jumping to conclusions about the cause is just as dangerous. This is how you handle it fairly and firmly.
-featured_quote: "The longer you wait, the more you're telling your best people that underperformance is tolerated here."
+excerpt: One person on your team is consistently underdelivering and everyone else is starting to notice. Ignoring it punishes your best people, but jumping to conclusions is just as dangerous. Here's how to handle it fairly and firmly.
+featured_quote: "I don't want to throw anyone under the bus, but I've picked up three of Morgan's tasks this month and I'm getting burned out."
 reading_time: 6
 ---
 
-## The Situation You're Already In
+## The Situation You Can't Ignore
 
-You have a team of five. Four of them are solid. The fifth, call them Morgan, has been slipping for two months. Missed self-imposed deadlines, work that needs more review cycles than anyone else's, unexplained absences from team meetings. When you ask about status, you get "things are on track." The output says otherwise.
+You have four people doing their jobs well, and one who isn't. The four are quietly absorbing the gap. One of them finally said something to you last week. Another made a pointed comment in standup about "some people" not updating the project board.
 
-Your most senior person pulled you aside and told you they've absorbed three of Morgan's tasks this month and they're burning out. Someone made a pointed comment in standup about "some people" not updating the project board.
+You like the fifth person. They were strong when they started. Something has shifted, and you're not sure what. But you know the current situation isn't sustainable.
 
-You like Morgan. They were strong in their first year. Something shifted.
+This is one of the most common management problems I see, and it's also one of the most mishandled. Leaders tend to drift toward one of two failure modes: they avoid the conversation entirely and hope things improve, or they go in with their conclusion already formed and the employee has to disprove it. Both are bad. The first lets resentment build until the team breaks. The second destroys trust with someone who might have a completely fixable problem.
 
-Here's what you're probably doing right now: waiting. Hoping it turns around. Telling yourself you don't have enough information yet. Maybe one more week.
+There's a better path. It requires a little preparation and a lot of directness.
 
-That's a mistake, and I want to walk you through why, and what to do instead.
+## Get Your Facts Straight Before You Say Anything
 
-## Before You Say Anything, Get Clear on What You've Actually Seen
+Before you talk to Morgan, you need to know exactly what you're working with. Not what the team has told you. Not your general impression that things feel off. Specific, documented, observable facts.
 
-There's a version of this conversation that goes badly from the first sentence. It usually starts with something like, "Some people on the team have mentioned that..."
+Pull the last two months. Write down the deadlines Morgan set and missed. Write down the work that came back for additional review cycles. Note the two team meetings with no explanation. Write down what Morgan has said in 1:1s, specifically "things are on track," and then note what the actual output showed.
 
-Don't do that. The moment you lead with what the team told you, you've turned the conversation into a tribunal and Morgan into a defendant. They'll spend the whole meeting trying to figure out who said what instead of engaging with the actual problem. And frankly, it's not fair to them. You're the manager. Your observations are the ones that matter here.
+That's your foundation. You need it because the conversation has to be grounded in what you've seen, not what you've heard. If you walk in with "the team is frustrated with you," Morgan's natural response is defensive and the conversation becomes about the team's perception instead of the actual performance gap. That's not what you want.
 
-So before you sit down with Morgan, write out specifically what you have seen yourself. Not what you've heard. Not what you've inferred. What you've directly observed.
-
-In this case, that list probably looks like: three missed self-imposed deadlines in the past six weeks, work on the Hendricks project that required four review cycles instead of the usual one or two, no-shows to the October 14th and October 21st team syncs with no notice given, and status updates in 1:1s that said "on track" when the project board showed otherwise.
-
-That's your foundation. Specific, documented, observable. That's what the conversation is built on.
+You also need to separate observation from interpretation. "You missed three self-imposed deadlines this month" is an observation. "You've checked out" is an interpretation. Start with observations. Leave room for Morgan to explain.
 
 ## The Conversation Itself
 
-Go in curious, not conclusive. That's the whole posture. You don't know why Morgan is slipping, and assuming you do is where managers get into trouble. It could be a skill gap on something new. It could be a personal situation at home. It could be unclear expectations about what "done" looks like. It could be disengagement. It could be the wrong role. You won't know until you have a real conversation, and you can't have a real conversation if you've already made up your mind.
+Open with what you've seen, directly and without hedging.
 
-Start by naming what you've observed directly and without editorializing. Something like: "I've noticed over the past two months that several deadlines have slipped, the review cycle on your last two deliverables was longer than we'd normally expect, and you missed two team meetings without notice. I want to understand what's going on."
+Something like: "I want to talk about the last couple of months. I've noticed a pattern that concerns me. Three deadlines you set for yourself haven't been met. Your work has been coming back for more revision cycles than it used to. You missed two team meetings without flagging it in advance. And when I ask in our 1:1s, you tell me things are on track, but the output is telling me something different. Help me understand what's going on."
 
-Then stop talking.
+Then close your mouth and listen.
 
-Let Morgan respond. Actually listen to what comes back. If they say they've been dealing with something personal, that changes the conversation. If they say they weren't clear on the expectations, that's information you need. If they get defensive and tell you everything is fine when you both know it isn't, that's also information.
+This matters more than anything else in the conversation. A lot of managers ask that question and then immediately start talking again because silence feels uncomfortable. Let the silence sit. You need to hear what Morgan says.
 
-What you're trying to figure out is whether this is a "can't" problem or a "won't" problem. Can't is a coaching and support conversation. Won't is a different conversation entirely, and eventually a performance one. You can't skip the curiosity step and go straight to performance management, not if you want to be fair and keep your credibility with the rest of the team.
+There are a few possible answers, and each one changes your next move.
 
-## Be Specific About What Needs to Change
+Morgan might tell you something is going on personally. A health issue, a family situation, something they've been trying to manage quietly. If that's the case, that's real information and it changes the conversation. Not because it excuses the performance gap, but because it tells you what kind of support might be appropriate and whether HR needs to be involved. You can hold the line on performance expectations and still be a human being about it.
 
-Curiosity doesn't mean vagueness. Once you've heard Morgan out, you have to be direct about what success looks like from here.
+Morgan might tell you they're unclear on priorities, that they've been pulled in multiple directions, that expectations shifted and no one recalibrated with them. That's a management problem, possibly yours, and it's worth taking seriously before you assume the issue is entirely on Morgan's end.
 
-Not "I need to see more consistency." That's not actionable. Morgan can't do anything with that.
+Morgan might tell you everything is fine and they don't really see what the problem is. That's the hardest version because now you're dealing with a gap in self-awareness, and those take more time to close. But the conversation still needs to happen, and you still need to name the gap clearly.
 
-Say something like: "Going forward, I need deadlines to be realistic when you set them, and if something is going to slip, I need to know at least 24 hours in advance. I need the review cycle on your work to come down. And I need you present and on time for team meetings. Let's talk about what support you need to get there."
+## What You're Not Doing in This Conversation
 
-Set a check-in point. Two weeks, three weeks, whatever makes sense given the work. Be explicit that you're going to revisit this. Not as a threat, just as a fact. "I want to check in on this in two weeks and see how things are tracking." That communicates seriousness without being punitive, and it gives Morgan a clear runway.
+You're not bringing the team's frustration into this room. What your senior team member told you, what got said in standup, none of that belongs in this conversation. You heard it, it informed your urgency, but Morgan doesn't get to defend themselves against unnamed colleagues. That's not fair and it won't help.
 
-## The Team Situation
+You're also not delivering a verdict. "You've been phoning it in" might feel true but it's not useful. You're describing what you've observed and asking for the person's reality. You might be surprised by what you learn.
 
-Your senior person is burning out from carrying Morgan's load. Someone made a dig in standup. The team knows something is off, and they're watching to see what you do about it.
+And you're not leaving the conversation without a clear agreement about what changes and by when. This is where a lot of managers flinch. The conversation goes reasonably well, there's some emotional honesty, you feel like you've made progress, and then you both leave without naming a specific expectation for what happens next. Two weeks later nothing has changed and you're back where you started.
 
-You're not going to throw Morgan under the bus. You're also not going to pretend nothing is happening.
+Before you wrap up, you need to be explicit. Something like: "Here's what I need to see over the next four weeks. Deadlines you commit to, you hit or you flag 24 hours in advance. Work comes in at the quality level I've seen from you before. You're present and prepared in team meetings. I'm going to check in with you every week, and we're going to look at this together. If something comes up, bring it to me early. I'd much rather adjust a plan than deal with a surprise."
 
-The right move with the senior person who came to you is a direct acknowledgment: "I hear you. I know you've been carrying extra weight, and I don't want that to continue. I'm addressing it." That's it. You don't share details of what you're doing with Morgan, and you don't name the conversation you're planning. But you also don't give them nothing, because "I hear you" with no follow-through is meaningless.
+That's not harsh. It's clear. Clear is what Morgan needs right now.
 
-For the standup comment, address it in the moment, calmly. "Let's keep feedback direct and in the right forum." That handles it without escalating it and without sacrificing Morgan's dignity in front of the group.
+## Managing the Team While This Is Happening
 
-Here's the hard truth about the team dynamic: the longer you wait, the more you're telling your best people that underperformance is tolerated here. Your four solid contributors are watching. They're deciding whether this is a place where effort is recognized and accountability is real. Every week you let this drift is a message to them. Make sure it's the message you intend.
+Your senior team member who pulled you aside deserves a response. Not details about your conversation with Morgan, not an explanation or a defense of Morgan's situation. Just acknowledgment and a commitment to action.
 
-## What Happens If the First Conversation Doesn't Change Anything
+"I hear you, and I appreciate you telling me. That's not a sustainable load for you and it's not fair. I'm on it." Then you actually have to be on it, which means the conversation with Morgan happens this week, not next month.
 
-One conversation is rarely enough. That's not failure, that's just how this works.
+The comment in standup is a different problem. Indirect digs about "some people" are team dynamics starting to fray. You can address that in the moment without calling anyone out: "Let's keep the standup focused on what we can control. If there are blockers, let's surface them here or bring them to me directly." That's not protecting Morgan. That's keeping the team from sliding into something uglier.
 
-If you have the initial conversation, set clear expectations, check in at the two-week mark, and nothing has materially changed, you move to a more formal structure. That means written documentation of the expectations, a defined timeline, and explicit acknowledgment that continued underperformance will lead to escalation. At that point you loop in HR, not because you're building a case to fire Morgan, but because they need to know what's happening and you need their guidance.
+What you're not doing is either ignoring the frustration or turning it into a group conversation about Morgan's performance. Both of those are leadership failures.
 
-Some managers resist going to HR early because it feels like an escalation. It's not. It's getting the right people informed so you're not making consequential decisions alone.
+## What Happens If the First Conversation Doesn't Work
 
-And if Morgan is genuinely not able to do the job, or genuinely unwilling, you owe it to the other four people on your team to act on that. Being fair to Morgan means giving them a real chance to improve. It doesn't mean giving them unlimited chances while everyone else carries the weight.
+Give it the four weeks you agreed to. Check in weekly, document what you're seeing, note whether the pattern holds or changes. If Morgan comes back to you with an explanation that opens up a different conversation, adjust accordingly. If the work improves, acknowledge it directly.
 
-## The Difference Between Fair and Avoidant
+If four weeks go by and nothing has materially changed, the conversation gets harder and more formal. You document clearly what was discussed, what was agreed to, and what you've observed since. You involve HR. You tell Morgan plainly that you're at a point where continued underperformance has consequences. This isn't a threat, it's just true, and saying it out loud is more respectful than letting someone continue in a role they're failing without telling them how serious it is.
 
-There's a version of "being fair" that is actually just conflict avoidance dressed up in nice language. Managers do this constantly. They convince themselves they need more data, or they don't want to be harsh, or they're protecting the relationship. Meanwhile the team erodes.
+The thing most managers get wrong is thinking one conversation should fix it. It won't. What matters is consistent follow-through over time. The first conversation opens the door. What you do after it determines whether anything actually changes.
 
-Being fair to Morgan means having the direct conversation early, approaching it with curiosity, giving them real information about what's not working, and giving them a genuine opportunity to fix it. That's fair.
+## The Fairness Question
 
-Waiting another month because it's uncomfortable is not fair to Morgan, and it's definitely not fair to the four people picking up the slack.
+You like Morgan. Morgan was strong once. That history is real and it should inform your patience and your approach, but it can't override the obligation you have to the rest of the team.
 
-Have the conversation this week. Be specific. Be curious. Be clear. Then follow through.
+The four people picking up the slack are watching what you do. If you let underperformance persist without addressing it, you've told them that doing the extra work is optional and there are no real consequences for not doing your share. The best people on any team have options. They will not stay somewhere that punishes reliability and excuses inconsistency.
+
+Being fair to Morgan means having the hard conversation, setting clear expectations, and giving Morgan a real chance to get back on track. Being fair to the team means not letting the situation drag on indefinitely. Both things are true at the same time.

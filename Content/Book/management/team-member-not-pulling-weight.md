@@ -1,48 +1,40 @@
 ---
-title: "When One Person Isn't Pulling Their Weight"
+title: "A Team Member Isn't Pulling Their Weight. Here's What to Do."
 book_chapter: "management"
-word_count: 1082
+word_count: 967
 source_idea: draft-prompt-team-member-not-pulling-weight.md
 ---
 
-## When One Person Isn't Pulling Their Weight
+## When One Person Stops Pulling Their Weight
 
-I've been in this situation more times than I can count, on both sides of the table. And the thing that strikes me now, looking back, is how much energy managers spend in the days before the conversation compared to how much they spend actually having it.
+There's a particular kind of management problem that doesn't announce itself loudly. It builds slowly, over weeks, sometimes months, until the day someone on your team says something you can't unhear.
 
-There's a particular kind of dread that sets in when someone on your team starts slipping and you know, you absolutely know, that you need to address it. You run the conversation in your head on the drive to work. You tell yourself you'll bring it up at the next 1:1. You wait to see if it self-corrects. Weeks pass.
+Early in my career, someone said it to me over coffee on a Tuesday morning. She wasn't the type to complain. That's actually what made it land. She described absorbing work that wasn't hers, going quiet in meetings because she was too tired to engage, and trying to stay loyal to a team she was starting to resent. The person she was describing had been struggling for three months. I had noticed. I had done nothing.
 
-I've done all of that. I've also watched other managers do it, and I've seen the cost every time.
+I told myself I was waiting to see if it resolved on its own. The real answer is that I didn't know what to say, so I said nothing. That's a very common management failure and it's almost always more damaging than acting too early.
 
-The situation usually looks something like this. You have a team of mostly solid contributors and one person who's been consistently falling short. Missed deadlines. Work that needs more revision than it should. Unexplained absences. When you ask how things are going, they say fine, but the output tells a different story. The rest of the team has noticed, and they're starting to say something about it.
+Here's what I know now that I didn't know then.
 
-In this case, the name is Morgan. It could be anyone.
+The performance gap almost never fixes itself. Not because people are lazy or indifferent, but because they don't always know they're drifting. The gap between what someone thinks they're delivering and what's actually landing can be enormous, and without feedback, that gap just widens. The person experiencing it often doesn't register how serious it's become. They're busy, they're stressed, they're in their own head. The manager is the only one with the perspective to name it directly.
 
-Before you say a word to Morgan, you need to get clear on what you've actually observed yourself. Not what the team told you. Not what you've pieced together from inference. What did you see directly?
+The first thing I do now before any performance conversation is build a factual foundation. Not impressions, not secondhand accounts from colleagues, actual documented observations. Deadlines that were set and missed. Work that came back for multiple rounds of revision. Meetings missed without explanation. What was said in one-on-ones versus what the output actually showed. This is the material I bring into the room.
 
-This matters more than most managers realize. If you walk into that conversation leading with "the team has noticed some issues," you've just turned Morgan into a defendant in a trial where they don't know who the witnesses are. That's not a conversation, that's an ambush, and it doesn't produce anything useful. Morgan spends the whole meeting trying to figure out who said what, and you spend it managing defensiveness instead of solving the problem.
+The reason this matters is that the conversation has to be grounded in observable fact. If I walk in with "people are frustrated with you," the conversation becomes a referendum on the team's feelings. The person on the other side gets defensive, I'm suddenly on the team's side and they're on the other side, and we're nowhere near solving anything. The documented specifics keep the focus on the right thing, which is the gap between expectation and output and how to close it.
 
-Your observations are the foundation. Write them down before you walk in. Specific dates, specific deliverables, specific gaps. Not impressions, not "seems like," not "I get the sense that." Facts.
+When I sit down, I open with what I've seen. Not hedged, not softened into nothingness. Something like: "I've been watching the last few months carefully, and I want to talk about what I'm seeing, because I think there's something important we need to address together." Then the specifics. Then I stop talking.
 
-When you sit down with Morgan, lead with curiosity. Not because you're supposed to be nice, but because you genuinely don't know what's happening yet. I've managed people who were slipping because something terrible was happening at home. I've managed people who had gotten completely unclear on what was expected of them and were producing the wrong thing with real effort. I've also managed people who had checked out and were coasting. Those are three completely different situations and they require three different responses. You find out which one you're in by asking and actually listening to the answer.
+What happens next tells me almost everything I need to know.
 
-The question isn't "why haven't you been hitting your deadlines?" That's not a real question, it's an accusation with a question mark. The question is something closer to: "I've noticed some things over the past couple of months and I want to understand what's going on for you." Then you name the specific things you observed, plainly and without editorializing, and you wait.
+Sometimes there's a real explanation sitting just below the surface that the person hasn't shared because they didn't think they could, or didn't want to burden anyone, or was trying to handle it themselves. Health issues. Family situations. Something in their personal life that's consuming bandwidth they can't account for. When that comes out, the conversation changes shape. The performance expectations don't disappear, but the approach to addressing them shifts. You can hold a clear line on output while also being a human being about what someone is going through. Those aren't mutually exclusive.
 
-What comes back tells you a lot. Someone who's dealing with something real will usually tell you, especially if they trust you. Someone who's been unclear on expectations will show relief when you name the gap directly. Someone who's disengaged will often give you a version of "everything is fine" that doesn't hold up against the facts.
+Sometimes the explanation is structural. Unclear priorities, shifting expectations, being pulled across too many things without a real decision about what matters most. When I hear this, I take it seriously, because it might mean I haven't been clear enough. The honest question to ask yourself in the moment is whether you'd have seen this pattern coming if you'd been paying closer attention earlier. Sometimes the answer is yes.
 
-After you've heard them out, you have to be equally direct about what needs to change. This is where managers often go soft at exactly the wrong moment. They do the hard work of having the conversation and then close with something vague like "I just want to see more consistency going forward." That's not useful to anyone. Morgan leaves the meeting not knowing what you actually need, and you haven't set yourself up to hold them accountable to anything specific.
+And sometimes the person genuinely doesn't see what you're seeing. They think they're on track. The gap in self-awareness is real and significant. Those conversations are harder and take longer, but they still need to happen, and they still need to be direct.
 
-Tell them what success looks like in concrete terms. Deadlines that are accurate when set, or flagged early if they're going to slip. Work that doesn't require three more revision cycles than anyone else's. Presence at team meetings. Whatever the specific gaps are, name the specific standards. And set a date to check in. Not as a threat, as a commitment. "Let's talk in two weeks and see how things are tracking." That single sentence communicates that you're serious and that you're going to stay engaged, without turning the whole thing into a tribunal.
+Whatever the response, before the conversation ends, there has to be a clear agreement. Specific expectations, a specific timeframe, specific check-in points. Not "let's see how things go." Not "I just wanted to flag this." Something concrete: here's what I need to see, here's the timeline, here's how we're going to evaluate it together. This is where most managers flinch because naming it that directly feels aggressive. It isn't. It's the opposite of aggressive. It's respectful. You're telling the person exactly what they need to do to succeed, which is something they deserve to know.
 
-The team piece is genuinely difficult. The people carrying Morgan's load are burning out and they need to see that you see it. You can acknowledge that directly to the person who came to you without disclosing anything about your conversation with Morgan. "I hear you. I know you've been carrying extra. I'm addressing it." That's enough. You don't owe them the details of what you're doing, but you do owe them the acknowledgment that you're not going to let it continue.
+The follow-through matters as much as the conversation. I've seen managers have a genuinely hard conversation and then assume the work is done. It isn't. The weeks after are where you find out whether anything changed. You check in weekly. You document what you observe. You acknowledge improvement when it happens, directly and specifically. And if nothing changes after a reasonable period, the conversation gets more formal and the stakes become explicit.
 
-And if a dig comes out in a team meeting, handle it in the moment. Calmly, directly. "Let's keep feedback in the right forum." It doesn't escalate, it doesn't punish, and it doesn't sacrifice Morgan's dignity in front of the group. Everyone knows what it means.
+The team watching all of this matters too. You don't owe them a play-by-play, and you certainly don't bring them into the performance conversation as supporting evidence. But your best people are paying attention to how you handle the situation. They know something is off. What they're waiting to find out is whether you're going to do something about it. If you let it drag on indefinitely, you've told them that output is optional. The strongest people on any team have choices about where they work. They tend not to stay on teams where underperformance goes unaddressed.
 
-If you have the conversation and set the expectations and check in and things don't materially change, you move to something more formal. Written documentation. A defined improvement timeline. HR informed. Not because you're preparing to fire Morgan, but because consequential decisions about people's employment shouldn't be made by one manager alone without any institutional support or oversight.
-
-Some managers resist this step for a long time because it feels like they're building a case against someone they like. It's not that. It's getting the right people in the loop so the process is fair, to Morgan and to you.
-
-Here's the thing I keep coming back to. Being fair to Morgan means giving them real information about what isn't working and a genuine opportunity to fix it. It doesn't mean protecting them from the consequences of continued underperformance indefinitely while four other people carry extra load and lose faith in your leadership. That's not generosity. That's avoidance, and the person it ultimately hurts most is Morgan, because by the time you finally act, you've waited so long that there's no good outcome left.
-
-Have the conversation early. Go in curious. Be specific about what needs to change. Then follow through.
-
-That's what fair actually looks like.
+Addressing it firmly, fairly, and early is how you protect the culture you've built. It's not about the person who's struggling in isolation. It's about everyone who depends on you to keep the team working the way it should.
