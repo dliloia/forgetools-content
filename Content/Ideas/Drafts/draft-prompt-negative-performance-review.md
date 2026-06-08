@@ -2,7 +2,11 @@
 title: "You Need to Deliver a Negative Performance Review"
 slug: negative-performance-review
 type: prompt
-status: draft
+status: article-draft
+draft_slug: negative-performance-review
+article_draft: Content/Articles/Drafts/draft-negative-performance-review.md
+sanity_draft_id: 706f2744-e975-45ed-95fa-d07c4f424da3
+book_section: Content/Book/management/negative-performance-review.md
 isPublic: false
 created: 2026-04-04
 tags: [draft, prompts]
