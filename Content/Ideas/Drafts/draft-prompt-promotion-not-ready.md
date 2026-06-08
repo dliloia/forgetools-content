@@ -2,7 +2,11 @@
 title: "An Employee Asks for a Promotion They're Not Ready For"
 slug: promotion-not-ready
 type: prompt
-status: draft
+status: article-draft
+draft_slug: promotion-not-ready
+article_draft: Content/Articles/Drafts/draft-promotion-not-ready.md
+sanity_draft_id: 225a6cbf-a946-4e8b-8525-0a009bb4aaf0
+book_section: Content/Book/management/promotion-not-ready.md
 isPublic: false
 created: 2026-04-04
 tags: [draft, prompts]
