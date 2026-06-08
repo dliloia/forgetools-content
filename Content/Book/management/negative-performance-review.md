@@ -1,38 +1,40 @@
 ---
-title: "You Need to Deliver a Negative Performance Review"
+title: "How to Deliver a Negative Performance Review Without Making It Worse"
 book_chapter: "management"
-word_count: 967
+word_count: 900
 source_idea: draft-prompt-negative-performance-review.md
 ---
 
-## The Conversation You Owe Casey
+## The Conversation You've Been Avoiding
 
-I've sat on both sides of this table more times than I can count. I've delivered reviews that landed well and reviews that went sideways, and the difference almost always came down to one thing: whether I had been honest with the person in the months before we got there.
+There's a version of this story I've seen play out dozens of times, and it always starts the same way. A manager has known for months that someone on their team isn't performing at the level the role demands. They've brought it up, sort of. They've made suggestions. They've asked questions that gesture at the problem without naming it. And now it's review season, the rating is written, and they have to sit across from that person and deliver it.
 
-The scenario I want to walk through is one most managers will recognize immediately. An employee who works hard, gets along well with the team, but isn't meeting the execution requirements of the role. Missed deadlines. Stakeholder communication that falls short. Cross-functional partners losing confidence. And a manager, probably a decent one, who raised these issues in one-on-ones along the way, but raised them gently. Suggestions instead of warnings. Hints instead of clarity.
+What they're really dreading isn't the rating. It's the look on the employee's face when they realize how serious this is. Because that look, surprise, hurt, confusion, means the manager didn't actually say what needed to be said when it needed to be said. And they know it.
 
-Now it's review time, and the rating is below expectations, and the manager has to figure out how to deliver it.
+I've been that manager. Early in my career, I had a tendency to soften things. I thought I was being kind. What I was actually doing was protecting myself from an uncomfortable moment and leaving the other person without the information they needed to improve. That's not kind. That's a failure of nerve that gets dressed up as compassion.
 
-Here's the first thing I'd say: if the employee is surprised by this rating, that's a management problem, not a performance problem. I'm not letting the performance issues off the hook, those are real and they matter. But the surprise belongs to the manager. We soften feedback because we want to protect the relationship, and in doing so we end up withholding the information the person actually needs to course-correct. That's not kindness. That's management discomfort dressed up as consideration.
+The hardest part of delivering a negative performance review isn't saying the words. It's walking in having already owned what you didn't do, and doing it anyway.
 
-So before the conversation starts, the manager needs to get honest with themselves about their own role in how this unfolded. Not to beat themselves up, but because that self-awareness has to show up in the room. The employee deserves to hear their manager say, plainly, "I think I could have been clearer with you earlier about the severity of this. That's on me."
+Here's what I've learned about how to do this right.
 
-That acknowledgment doesn't soften the rating. The rating is accurate and it stands. What it does is tell the employee that this is a real conversation between two people, not a verdict being handed down from above.
+The first thing you have to settle before you walk into the room is whether you're willing to be honest about your own role in the situation. If the employee is going to be surprised by the rating, that surprise is yours. You didn't deliver clear enough feedback along the way. That doesn't make you a bad manager, it makes you a human one, but you have to say it out loud in the meeting. Not as a lengthy apology. Just as a plain statement of fact: "I've addressed some of this in our one-on-ones, but I don't think I was as direct as I should have been. I'm correcting that now."
 
-The delivery itself matters more than most managers realize. The instinct is to use a structure that softens the blow, put the positives first, slide in the hard part, close with encouragement. The problem with that approach is that it often works too well. The employee leaves the meeting thinking they had a mixed review when they actually had a serious one. Then when the consequences of a below-expectations rating hit, they're shocked all over again.
+That sentence changes the entire dynamic. Instead of the employee sitting there feeling ambushed, they hear that their manager is leveling with them. It's disarming in the best way.
 
-The cleaner approach is to name the rating early, clearly, without burying it. Let the person absorb it. Then walk through the specific situations that drove it, not generalizations, but actual events with actual dates and actual outcomes. The deadline that slipped. The partner who escalated. The stakeholder who stopped CC'ing them on threads because they'd lost confidence. Specifics are the only thing that make a hard performance conversation credible. Without them, you're just delivering a subjective judgment with no traction.
+Deliver the actual rating clearly and early. The tendency is to warm up the room, cover all the positives first, and ease into the hard part. Resist that. The rating goes second, right after you set the tone. "Your rating this period is needs improvement." Not softened, not paraphrased. The actual words, because anything less and the employee starts interpreting in your favor and leaves the conversation not fully understanding where they stand.
 
-I've sat in reviews where a manager delivered a below-expectations rating and the employee pushed back hard, and watching the manager either hold the line on specifics or fold under pressure told me almost everything I needed to know about the quality of the management relationship. If you have the documentation, you have the ground to stand on. If you've been vague all year, you have nothing.
+Then go to the specifics. Every concrete example you have. Missed deadlines, named. Feedback from cross-functional partners, cited. This is why documentation throughout the review period matters so much. Vague feedback is easy to dismiss. "On March 14th, the status update to the operations team went out three days late and two partners reached out to me directly to ask what was going on" is not easy to dismiss.
 
-The emotional piece is worth addressing separately because it's where a lot of managers lose the thread. When someone receives a negative rating, especially someone who puts in genuine effort and cares about the work, the emotion is real and it deserves acknowledgment. Let there be a moment of quiet. Let the person feel what they feel. What you can't do is rush through the discomfort by accelerating toward the positives, because the person will sense that you're managing your own anxiety, not actually supporting them.
+There's a real distinction worth holding here between the person and the performance. If the employee is a hard worker with good relationships who is genuinely struggling to execute at the level the role requires, say that. Not as cushioning before the bad news, but as a real point after the rating lands. The performance fell short. That doesn't mean the person is falling short as a human being. The best managers I've worked with could hold both of those things at once without letting either one erase the other.
 
-The most useful thing I ever learned about handling emotion in performance conversations is that staying steady is itself a form of care. The manager who holds the space, who doesn't get rattled by tears or by pushback, who keeps coming back to the facts calmly, is doing more for the employee than the manager who apologizes their way through the meeting and then wonders why nothing changed.
+When the employee gets emotional or defensive, and they will, give them space. You don't have to fill every silence. You don't have to fix their feelings in the moment. What you have to do is stay present, stay honest, and not pivot away from the hard parts because you're uncomfortable. Your discomfort is yours to manage.
 
-The improvement plan is where the conversation either becomes real or collapses. I've seen more performance reviews close with a vague commitment to "do better" and "stay in closer touch" than I'd like to admit, and almost none of those situations improved. A real improvement plan names two or three specific, observable behaviors that need to change, attaches them to a timeline, and includes explicit checkpoints on the calendar before you leave the room.
+The improvement plan is not a formality. It's the entire point of the conversation. If you deliver a below-expectations rating and then leave the person without a specific, measurable path forward, you've made it punitive. Thirty-day checkpoint. Specific behaviors, not general aspirations. Clear criteria for what success looks like at 90 days. And an honest statement of what happens if nothing changes. Not a threat. An honest statement. They deserve to know that.
 
-The conversation also has to include the honest stakes. Not as a threat. Not delivered with heat or punitive energy. But the employee needs to understand what not improving means. Withholding that information in the name of kindness isn't kindness. It's leaving someone to navigate serious professional risk without a full picture of where they stand.
+What I've seen over and over again is that managers deliver the hard conversation and then drift back to the same indirect patterns that created the problem. They feel relieved it's over. They loosen up in the one-on-ones. By the next review period, nothing has changed, and now they're having the same conversation again but with less credibility.
 
-The managers who handle this well are the ones who treat the review as the beginning of a more honest management relationship, not the conclusion of a difficult period. They check in the next day. They show up to the checkpoints. They give real-time feedback when they see the behaviors move in either direction. The review was hard, but it was also a turning point, and how the manager shows up over the next 90 days matters as much as anything said in the meeting itself.
+The review meeting is the beginning, not the resolution. The 30 days of consistent, direct management that follows it is where the actual work happens. Whether the employee turns it around, whether they decide this role isn't the right fit, whether the situation escalates toward a harder conversation, all of that comes from what you do in the weeks after the meeting, not the meeting itself.
 
-Casey has a real shot. Most people, given honest feedback and genuine support, will rise to meet it. The question is whether the manager is willing to do their part, which starts with being honest enough to let the review actually land.
+People can handle hard news. What they can't handle, at least not without cost, is ambiguity. Tell them where they are. Tell them what needs to change. Tell them what you're going to do differently too. Then follow through.
+
+That's the whole job.
