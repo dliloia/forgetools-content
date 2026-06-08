@@ -5,7 +5,7 @@ type: prompt
 status: article-draft
 draft_slug: team-member-not-pulling-weight
 article_draft: Content/Articles/Drafts/draft-team-member-not-pulling-weight.md
-sanity_draft_id: drafts.a2acffdc-8e4a-4753-9577-b4ed11d55942
+sanity_draft_id: drafts.2f5b5bd3-2149-4daf-adc4-81c45bfaed78
 book_section: Content/Book/management/team-member-not-pulling-weight.md
 isPublic: false
 created: 2026-04-04

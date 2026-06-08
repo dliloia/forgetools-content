@@ -1,40 +1,44 @@
 ---
-title: "One Person Isn't Pulling Their Weight. Here's How to Handle It."
+title: "A Team Member Isn't Pulling Their Weight. Here's How to Handle It."
 book_chapter: "management"
-word_count: 979
+word_count: 1067
 source_idea: draft-prompt-team-member-not-pulling-weight.md
 ---
 
-## When One Person Stops Pulling Their Weight
+## When One Person Is Dragging the Team
 
-I've managed enough people across enough years to know that this situation, one person on a team who is visibly underperforming while everyone else watches and waits, is one of the most mishandled problems in management. Not because managers don't care. Usually because they care too much, about the wrong things, in the wrong order.
+I've been on both sides of the table in situations like this one, and the version that plays out the most often isn't a villain story. It's not a lazy person gaming the system. It's usually a decent person who was once good at their job, and somewhere along the way, something shifted, and nobody caught it early enough to do anything useful about it.
 
-The scenario plays out with small variations, but the shape is always the same. Someone who was once a solid contributor starts slipping. Deadlines get soft. The quality isn't what it was. They're absent from meetings, or checked out when they're present. In one-on-ones they say things are fine. The work says something else.
+By the time the manager is asking what to do, the rest of the team has already formed an opinion. They've been picking up the slack. They're frustrated. Someone has said something passive-aggressive in a meeting. And the manager is sitting there weighing how much they like this person, how strong they were in their first year, and how much they're dreading the conversation.
 
-And you, the manager, notice. Of course you notice. But you also remember when they were good. You like them as a person. You don't have full visibility into what might be going on in their life. So you give it another week. You hint at expectations in team meetings. You hope the problem resolves itself.
+That's the moment that defines you as a manager, not the big decisions or the easy wins. The moment when the right thing to do is uncomfortable and you can feel every reason to delay it.
 
-It doesn't.
+Let me tell you what I've learned from doing this many times, some of those times badly.
 
-What you haven't fully reckon with is what your silence is costing everyone else. The other people on the team are not blind. They're picking up the slack, quietly and then not so quietly. They're watching to see if you're going to address it. Their frustration isn't really about their colleague's performance. It's a question about whether standards actually mean anything here, whether the manager sees what they see, whether there's any point in working hard if the alternative is tolerated without consequence.
+The first thing you have to do is separate what you actually know from what you've been told. Your team members are not bad people for telling you what they've observed. They're not throwing their colleague under the bus, they're doing you a favor. But you cannot walk into that conversation armed with their observations. You have to walk in with yours. This matters more than most managers realize. The moment the underperforming person hears "other people on the team have noticed," the conversation is over. Now they're trying to figure out who said what, and you've handed them a way to make this about team dynamics instead of their own performance.
 
-When your best person comes to you and says "I've picked up three of their tasks this month and I'm burning out," that is not gossip. That is a warning signal. And when someone takes a shot in standup about "some people" not updating the project board, the team has moved from privately frustrated to publicly broadcasting it. You are running out of time.
+Get specific about what you have personally seen. Specific dates. Specific deliverables. The gap between what they told you in the one-on-one and what actually happened. That specificity is not about building a case. It's about having a conversation that's actually grounded in reality, which is the only kind of conversation that produces change.
 
-The first thing I always do before this kind of conversation is separate what I know from what I've heard. This sounds obvious but most managers get it wrong. They walk into the conversation carrying secondhand frustration and they lead with "the team has noticed," which immediately turns a coaching conversation into a defensive one. Your evidence has to be yours. What did you personally observe? Which specific deadlines slipped, and by how much? Which deliverables came back for multiple revision cycles? Which meetings were missed without explanation? What did they tell you in the last three one-on-ones, and how does that line up with the output?
+The second thing, and this is the one that's harder to teach, is to go into the conversation genuinely curious. Not performing curiosity while you wait to deliver the verdict you've already reached, but actually curious. Because you don't know yet what's causing the pattern. I've managed people who were underperforming because they were in the wrong role, because their personal life was falling apart, because their scope had shifted and nobody recalibrated the expectations, because they'd quietly lost confidence after a few bad misses and were spiraling. And I've managed people who had just stopped caring. Those situations require different responses.
 
-When you document that pattern for yourself before the conversation, two things happen. First, you're grounded in fact rather than feeling. Second, you often discover whether you've actually been clear enough about expectations, because sometimes what looks like underperformance is partly ambiguity about what "good" looks like.
+The way you find out which one you're dealing with is by naming the pattern clearly and then asking what's going on. And then, critically, stopping. Staying quiet long enough to let the person actually answer.
 
-Two months of declining performance after a strong first year is worth taking seriously as information. Something changed. It might be a personal situation you don't know about. It might be a skill gap that's caught up with the demands of the role. It might be confusion about priorities or frustration with something on the team they don't feel safe raising. It might be genuine disengagement. You don't know which one yet, and you need to be curious enough to find out before you decide what to do.
+I got this wrong early in my career. I'd raise the hard thing and then immediately soften it because the silence made me uncomfortable. I'd answer the question for the person, or I'd reassure them before they had a chance to respond. That's not a conversation, that's a monologue with a brief intermission. The person leaves without having had to actually account for anything, and you've told yourself you handled it when you haven't.
 
-So you go in direct but open. You name the pattern clearly, with specifics, and then you stop talking and ask a genuine question. "Help me understand what's been going on." Not as a formality, not as a softener before you deliver the bad news. As an actual attempt to get information.
+The things you cannot afford to skip: naming the gap clearly, setting a specific expectation for what changes and by when, and being honest that the current trajectory isn't sustainable. That last piece is where most managers pull their punch. They'll have the conversation, they'll even set some kind of expectation, but they won't say clearly that continued underperformance leads somewhere specific. So the person walks away thinking they got a talking-to and things might improve if they make a little more effort.
 
-What comes back tells you a lot. Sometimes you learn something that reframes everything. Sometimes you get deflection and reassurance that doesn't match the facts. Sometimes you get a combination of both. All of it is useful.
+What you're actually trying to communicate is that this is a turning point. Not a threat, not a performance review delivered early, just an honest statement of what's true. "I want to work through this with you. And I need you to understand that the current situation can't continue. Here's what I'm looking for over the next few weeks, and I'll be watching for it specifically."
 
-What you do not do in that conversation is bring the team into it. You don't quote your senior person. You don't mention the standup comment. The moment you do, the conversation becomes about perception and loyalty rather than performance, and you've lost the thread.
+Then you actually watch for it. This is where accountability conversations die. The manager has the hard conversation, feels relieved it's over, and then goes back to hoping things improve. Two weeks later nothing has changed and now it's more awkward because you brought it up and didn't follow through.
 
-If the conversation goes reasonably well, you leave it with specific, measurable expectations and a clear timeline. Not "do better." Actual commitments: deliverables submitted on time, a quality standard that doesn't require more than one revision pass, attendance at required meetings. You agree on a tighter check-in cadence than usual, and you say plainly that the current pattern can't continue. Not as a threat, just as a true statement. "I want to help you get back to where you were, and I also need you to know this isn't sustainable."
+Follow through is the whole thing. If you see improvement, name it immediately and specifically. That reinforces the behavior and signals that you're paying attention in both directions, not just looking for what's wrong. If you don't see improvement in the window you set, have the second conversation faster than feels comfortable. By the second conversation you're not setting expectations anymore, you're assessing whether they were met.
 
-Then you follow through. You check in on the timeline you set. If things improve, you've done the job. If they don't, the next conversation is harder and more formal, and at that point you bring HR in and begin a documented process. Some managers treat that as a failure. I don't. That's the process working as intended. Not everyone who struggles comes out the other side, and your job isn't to protect people from consequences. It's to give them a real, fair chance and then make clear decisions based on what happens.
+There's also the team to think about. Not Morgan's performance, which is your business and Morgan's, but the people who have been picking up the slack. Your senior person told you they'd picked up three tasks and were burning out. That's a separate conversation, and it deserves its own attention. Go back to them. Thank them for being honest with you. Tell them you're aware and you're working on it. You don't owe them details about what you're doing with Morgan. You owe them the signal that you saw them and you're not going to ignore it.
 
-The other piece that gets neglected is the team. You can't ignore their frustration and you can't disclose what's happening in private conversations. What you can do is acknowledge what your senior person shared with you, tell them you're handling it, and mean it. Then demonstrate through your actions, through how you hold standards and redistribute work and run the team, that you see what they see and you are not going to look away.
+The team doesn't need transparency about the performance situation. They need to see that you respond to things that matter. They get that signal from your behavior over the following weeks, not from anything you say in a meeting.
 
-That's what they're actually asking for. Not punishment, not drama. Just evidence that you're paying attention and that their effort still means something.
+I've seen managers handle situations like this in ways that protected everyone's dignity and produced a real outcome, sometimes the person turned it around, sometimes they didn't but they left with clarity and respect intact. And I've seen managers avoid it until the team was openly resentful, the underperformer was blindsided by a formal process they didn't see coming, and everyone lost something they didn't have to lose.
+
+The difference is almost never the severity of the situation. It's how early and how honestly the manager engaged with it.
+
+You already know enough. The conversation is overdue.
