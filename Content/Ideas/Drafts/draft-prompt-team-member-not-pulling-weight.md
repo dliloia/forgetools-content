@@ -3,6 +3,10 @@ title: "A Team Member Isn't Pulling Their Weight"
 slug: team-member-not-pulling-weight
 type: prompt
 status: article-draft
+draft_slug: team-member-not-pulling-weight-2
+article_draft: Content/Articles/Drafts/draft-team-member-not-pulling-weight-2.md
+sanity_draft_id: b02bfd02-bfb3-4bb5-979f-5f18d478ee3c
+book_section: Content/Book/management/team-member-not-pulling-weight-2.md
 draft_slug: team-member-not-pulling-weight
 article_draft: Content/Articles/Drafts/draft-team-member-not-pulling-weight.md
 sanity_draft_id: drafts.9b0c2a64-e519-4d43-bb74-5bd8627be45e
