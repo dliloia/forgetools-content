@@ -2,7 +2,11 @@
 title: "A Team Member Isn't Pulling Their Weight"
 slug: team-member-not-pulling-weight
 type: prompt
-status: draft
+status: article-draft
+draft_slug: team-member-not-pulling-weight
+article_draft: Content/Articles/Drafts/draft-team-member-not-pulling-weight.md
+sanity_draft_id: drafts.a2acffdc-8e4a-4753-9577-b4ed11d55942
+book_section: Content/Book/management/team-member-not-pulling-weight.md
 isPublic: false
 created: 2026-04-04
 tags: [draft, prompts]
