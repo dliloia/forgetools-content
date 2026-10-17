@@ -15,7 +15,7 @@ That is why peer one on ones are useful. They are not status meetings. They are 
 
 You do not need to schedule time with every manager in the company. Start with the people whose teams regularly block, depend on, or create work for yours. Look at recent delays, handoffs, and recurring misunderstandings. Those are better clues than the org chart.
 
-Send a direct invitation. For example: "Our teams work together often, and I think we would benefit from comparing notes before the next issue comes up. Would you be open to a monthly 30 minute conversation?" Keep the purpose clear. Do not imply you need a favor.
+Send a direct invitation. For example: "Our teams work together often, and I think we would benefit from comparing notes before the next issue comes up. Would you be open to a 15-minute recurring conversation?" Keep the purpose clear. Do not imply you need a favor.
 
 ## Give the conversation a light structure
 
