@@ -62,3 +62,5 @@ If it is a clear, low-stakes behavior and the setting is right, keep the convers
 A 1:1 is a good place for patterns, development, and problems that need discussion. It is not the only place feedback can happen. A short, respectful conversation after a specific moment often gives someone a clearer chance to adjust.
 
 Use the moment when the behavior is concrete and the person can act on the information. Use the 1:1 when the issue needs context or privacy. That gives feedback a better chance of being fair and useful.
+
+To check whether your one on ones leave room for conversations that need more context, use the [free ManagerForge 1:1 Health Check](https://www.managerforge.com/tools/1-on-1-health-check). You do not need an account, and your answers stay in your browser.
