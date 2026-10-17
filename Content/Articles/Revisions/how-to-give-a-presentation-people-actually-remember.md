@@ -27,13 +27,7 @@ Do not manufacture drama to get attention. A real problem, decision, or change i
 
 ## Build a simple line of reasoning
 
-Organize the presentation so each section earns its place. A practical sequence is:
-
-1. The decision or outcome you want.
-2. The facts the audience needs to understand the situation.
-3. The options or constraints that matter.
-4. Your recommendation and why it follows from the facts.
-5. The action, owner, or decision you need next.
+Organize the presentation so each section earns its place. Start with the decision or outcome you want. Give the facts the audience needs, explain the relevant options or constraints, and make a recommendation that follows from those facts. Close with the action or decision you need next.
 
 This is a working structure, not a rule that every presentation must follow. A training session or project update may need a different shape. The test is whether a listener can follow how you got from the problem to the conclusion.
 
