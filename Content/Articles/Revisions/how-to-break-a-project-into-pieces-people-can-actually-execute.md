@@ -37,7 +37,7 @@ Break a task down when it hides major decisions, dependencies, or several differ
 
 Show what must happen before something else can start. Do not assume tasks can run in parallel just because different people own them.
 
-The dependency map helps the team see where a delay could affect the milestone. Check those items early and help clear blockers before the next status meeting.
+The chain of dependent tasks is the critical path. If one slips, the milestone may slip unless you adjust the work that follows. Mark those tasks so you can check them early and clear blockers before the next status meeting.
 
 For example, a pilot could have a task to draft participant instructions, owned by one person and done when a reviewer approves the steps. A second task could test account setup, owned by another person and done when a new user completes it without help. The launch depends on both tasks being complete. That is more useful than assigning someone "pilot readiness" with no visible next step.
 
