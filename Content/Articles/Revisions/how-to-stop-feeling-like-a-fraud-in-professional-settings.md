@@ -19,11 +19,7 @@ A room can be unfamiliar without being beyond your ability. Treat the feeling as
 
 ## Prepare enough to participate
 
-Before the meeting or event, spend ten minutes on three things:
-
-- What is the meeting trying to decide or accomplish?
-- What do you know that could help?
-- What question would help you understand the issue better?
+Before the meeting or event, spend ten minutes finding out what it needs to accomplish. Then note what you know that could help and one question that would clarify the issue.
 
 Write down a few notes, not a speech. A script can make you focus on delivering your lines instead of listening. A short list gives you something to work from while leaving room for the conversation to change.
 
