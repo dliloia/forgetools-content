@@ -17,7 +17,9 @@ Building creates something you can point to. Distribution can feel awkward and i
 
 Before adding another feature, talk to current users and people who considered the product but did not sign up. Ask what problem they were trying to solve, what they expected, and where they got stuck. Look for repeated answers, not a single comment that confirms what you already believe.
 
-If people cannot find the product, choose a channel where the likely audience already pays attention. If people find it but do not understand the offer, revise the message. If they understand the offer but do not proceed, inspect the product experience and the fit.
+If people who try the product get clear value but few of the right people know it exists, distribution is probably the next lever to test. More features will not solve that gap. If current users are not getting value or qualified visitors do not understand the offer, diagnose those problems before treating reach as the answer.
+
+Choose a channel where the likely audience already pays attention. If people see the offer but do not understand it, revise the message. If they understand it but do not proceed, inspect the product experience and fit.
 
 ## Run a focused distribution test
 
