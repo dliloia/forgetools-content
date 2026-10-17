@@ -1,4 +1,4 @@
-Editorial status: Review draft
+Editorial status: Approved for publication
 Live URL: https://www.managerforge.com/insights/the-quiet-high-performer
 Keep slug: the-quiet-high-performer
 Search intent: How to recognize and support high-performing employees who do not speak up often
@@ -50,3 +50,5 @@ A useful follow-up is simple: "You said you want more experience presenting to l
 Pick one question and ask it without an agenda hidden behind it: "What kind of work would you like more of?" or "Is there something you want me to notice that I might be missing?"
 
 Listen for the answer. Write down what you agreed to do, then follow up when you said you would. That is how you make a quieter employee feel seen, if feeling seen is what they wanted. More importantly, it keeps you from managing a guess about their career instead of the person in front of you.
+
+ManagerForge gives you a private place to keep one-on-one notes and return to the commitments you made. [Start free with one relationship](/signup), with no credit card required.
