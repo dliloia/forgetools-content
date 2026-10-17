@@ -1,3 +1,10 @@
+Editorial status: Review draft
+Live URL: https://www.managerforge.com/insights/the-quiet-high-performer
+Keep slug: the-quiet-high-performer
+Search intent: How to recognize and support high-performing employees who do not speak up often
+Proposed title: How to Support a Quiet High Performer on Your Team
+Excerpt: A quiet employee may be engaged, overlooked, cautious, or simply less vocal. Ask what support and growth look like for that person instead of guessing from their communication style.
+
 ---
 title: "How to Support a Quiet High Performer on Your Team"
 slug: the-quiet-high-performer
