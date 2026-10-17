@@ -13,12 +13,7 @@ A delay, risk, or recurring mistake may be visible to frontline staff long befor
 
 ## Replace vague status checks with specific questions
 
-"How is the project going?" invites a polished answer. Ask about the work directly:
-
-- What is most likely to put the deadline at risk?
-- What decision are you waiting on?
-- What are customers or coworkers repeating?
-- What changed since the last update?
+"How is the project going?" invites a polished answer. Ask about the work directly. What is most likely to put the deadline at risk? Which decision is someone waiting on? What are customers or coworkers repeating? What changed since the last update?
 
 Specific questions make it easier to raise a concern. They also help the manager distinguish a real blocker from general unease.
 
