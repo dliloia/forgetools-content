@@ -36,3 +36,5 @@ If you have been too involved, say so plainly. For example: "I have been asking 
 When you review work, explain what you are changing and why. Do not silently replace someone's work and leave them to guess what went wrong. If the standard was unclear, clarify it before the next assignment.
 
 Reducing micromanagement does not mean disappearing. Set outcomes, agree on checkpoints, and respond when the team asks for help. Then let capable people do the work they own.
+
+If you are replacing repeated status checks with clear ownership, ManagerForge’s free plan lets you keep meeting notes and track action items for one relationship. [Start free](https://www.managerforge.com/signup), with no card required.
