@@ -47,13 +47,7 @@ One practical habit helps: write down the date, the observable behavior, and any
 
 ## A quick decision check
 
-Before you choose the moment or the 1:1, ask yourself:
-
-- Is this one specific behavior, or a repeated pattern?
-- Can I describe it without guessing about intent?
-- Is this a private and respectful setting?
-- Does the employee need a short correction, or a longer conversation with context?
-- Is there a formal process I need to follow?
+Before you choose the moment or the 1:1, ask whether you are dealing with one specific behavior or a repeated pattern. Can you describe it without guessing about intent? Is the setting private and respectful? Does the employee need a short correction or a longer conversation with context? Is there a formal process you need to follow?
 
 If it is a clear, low-stakes behavior and the setting is right, keep the conversation brief and close to the moment. If it is a pattern, a sensitive issue, or a conversation that needs context, bring it to a private meeting. If you are unsure, gather the facts before you decide.
 
