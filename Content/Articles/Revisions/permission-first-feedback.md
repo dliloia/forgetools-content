@@ -11,17 +11,13 @@ Feedback lands better when the other person knows a conversation is coming and h
 
 This does not guarantee agreement or change. It gives you a respectful place to start.
 
-## A five-step conversation
+## A feedback conversation that leaves room to respond
 
-**1. Ask if now is a good time.** Try, "Can we talk about something I noticed in the meeting?" If the person is busy, agree on a time soon. Do not use permission to avoid a necessary conversation indefinitely.
+Start by asking if now is a good time. Try, "Can we talk about something I noticed in the meeting?" If the person is busy, agree on a time soon. Do not use permission to avoid a necessary conversation indefinitely.
 
-**2. Describe what happened.** Focus on an observable action. "You interrupted Sam twice while they were explaining the plan" is more useful than "You are dismissive."
+Then describe what happened in terms of an observable action. "You interrupted Sam twice while they were explaining the plan" is clearer than "You are dismissive." Explain the impact only if you can separate it from your interpretation. "We moved on before hearing the implementation risk" describes what changed in the discussion. If your own reaction matters, say that it is your reaction.
 
-**3. Explain the impact.** Separate what you observed from what you inferred. "We moved on before hearing the implementation risk" describes the effect on the discussion. If you felt frustrated, say so as your reaction.
-
-**4. Ask for their view.** "How did you see that exchange?" gives them a chance to add context. Listen before deciding what the conversation means.
-
-**5. Agree on what happens next.** Ask what would help handle it differently, or state your request directly. Confirm the next step and thank them for engaging.
+Ask how they saw the exchange, and listen before deciding what it means. Then agree on what happens next. Ask what would help, or state your request directly. Confirm the next step and thank them for staying in the conversation.
 
 ## Keep it a conversation
 
