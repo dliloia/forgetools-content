@@ -1,3 +1,10 @@
+Editorial status: Review draft
+Live URL: https://www.managerforge.com/insights/performance-reviews-insurance-policy
+Keep slug: performance-reviews-insurance-policy
+Search intent: How to write a specific performance review from ongoing manager notes
+Proposed title: How to Write a Better Performance Review From Your 1:1 Notes
+Excerpt: A useful performance review starts before review season. Capture work, feedback, commitments, and outcomes in your regular 1:1 notes, then use those records to write a review with specific examples.
+
 ---
 title: "How to Write a Better Performance Review From Your 1:1 Notes"
 slug: performance-reviews-insurance-policy
