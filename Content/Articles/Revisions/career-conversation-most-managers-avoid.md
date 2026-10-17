@@ -3,6 +3,7 @@ Slug: career-conversation-most-managers-avoid
 Source URL: https://www.managerforge.com/insights/career-conversation-most-managers-avoid
 Proposed title: How to Have a Career Conversation With an Employee
 Search intent: Questions managers can ask about an employee's career goals when they cannot promise a promotion or specific role.
+Excerpt: Ask what an employee wants from their career without promising a promotion. Set limits, listen, and agree on a next step you can support.
 Status: Approved for publication
 
 # How to Have a Career Conversation With an Employee
@@ -37,4 +38,4 @@ If the employee wants a path that does not exist on your team, say so directly. 
 
 Start by asking one direct question in your next one on one. Then listen closely, name the limits, and agree on a next step you can keep.
 
-Use your next one-on-one to ask what matters to the employee. The free [1:1 Health Check](/tools/1-on-1-health-check) takes about three minutes and helps you look at trust, clarity, and follow-through without an account.
+Make space for this in your next one-on-one. The free [1:1 Health Check](/tools/1-on-1-health-check) shows whether your meetings leave room for development, clarity, and follow-through. It takes about three minutes, and you can use it without an account.
