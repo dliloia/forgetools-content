@@ -5,15 +5,6 @@ Search intent: How to recognize and support high-performing employees who do not
 Proposed title: How to Support a Quiet High Performer on Your Team
 Excerpt: A quiet employee may be engaged, overlooked, cautious, or simply less vocal. Ask what support and growth look like for that person instead of guessing from their communication style.
 
----
-title: "How to Support a Quiet High Performer on Your Team"
-slug: the-quiet-high-performer
-status: editorial-review
-revision_of: https://www.managerforge.com/insights/the-quiet-high-performer
-primary_intent: how managers can recognize and support high-performing employees who do not speak up often
-excerpt: "A quiet employee may be engaged, overlooked, cautious, or simply less vocal. Managers should ask what support and growth look like for that person instead of guessing from their communication style."
----
-
 ## Quiet does not tell you what someone needs
 
 Some employees speak often in meetings. Others do careful work and say less. Neither pattern tells you whether a person is satisfied, ambitious, or planning to leave.
