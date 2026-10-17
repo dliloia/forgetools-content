@@ -36,3 +36,5 @@ If the employee sees the event differently, let them explain before you decide w
 A performance review should summarize conversations the employee has already had with you. It should not be the first time they learn that a behavior is affecting their work or reputation. When feedback is new, timely, and specific, the employee has a fair chance to respond and improve.
 
 Before you speak, ask yourself whether the goal is to help the person do better or to discharge your own irritation. If you are too angry to listen, take a short pause and return to the issue soon. Then have the conversation plainly.
+
+Want a record of what you discuss and the next step you agree on? ManagerForge’s free plan includes meeting notes and action item tracking for one relationship. [Start free](https://www.managerforge.com/signup), with no card required.
