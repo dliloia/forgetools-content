@@ -31,14 +31,7 @@ Compare the work people are actually doing. Check whether they have the same too
 
 Before making a major performance decision, talk with a few people who do the work. Make the conversation about the job, not a disguised performance review.
 
-Ask:
-
-- Where does work get stuck?
-- Which steps take longer than they should?
-- What do you have to redo, copy, or chase?
-- When you hit a problem, do you know who can help?
-- What did you need to know earlier than you learned it?
-- Which priority should move when urgent work appears?
+Ask where work gets stuck and which steps take longer than they should. Find out what people have to redo, copy, or chase, and whether they know who can help. Ask what they needed to know earlier, and which priority should move when urgent work appears.
 
 Listen for specific examples. “The process is broken” gives you a direction. “I wait two days for an approval, then rush the task that was due yesterday” gives you something to check.
 
