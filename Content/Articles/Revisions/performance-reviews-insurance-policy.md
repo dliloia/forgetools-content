@@ -5,15 +5,6 @@ Search intent: How to write a specific performance review from ongoing manager n
 Proposed title: How to Write a Better Performance Review From Your 1:1 Notes
 Excerpt: A useful performance review starts before review season. Capture work, feedback, commitments, and outcomes in your regular 1:1 notes, then use those records to write a review with specific examples.
 
----
-title: "How to Write a Better Performance Review From Your 1:1 Notes"
-slug: performance-reviews-insurance-policy
-status: editorial-review
-revision_of: https://www.managerforge.com/insights/performance-reviews-insurance-policy
-primary_intent: how to write a specific performance review using ongoing manager notes
-excerpt: "A useful performance review starts before review season. Capture work, feedback, commitments, and outcomes in your regular 1:1 notes, then use those records to write a review with specific examples."
----
-
 ## Start with evidence, not memory
 
 When review season opens, it is tempting to start with a blank document and search your memory for the past six months. That is a bad place to begin. Recent work comes to mind first. A project from February does not.
