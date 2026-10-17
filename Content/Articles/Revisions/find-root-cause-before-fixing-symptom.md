@@ -29,13 +29,7 @@ The chain may branch. One answer can lead to several contributing factors. Follo
 
 ## Test the explanation
 
-Before acting, ask:
-
-- What evidence supports this explanation?
-- What evidence would make it less likely?
-- Who has a different view of the problem?
-- If we changed this condition, would the symptom probably change?
-- Could this proposed fix create a new problem elsewhere?
+Before acting, ask what evidence supports this explanation and what would make it less likely. Talk to someone who sees the problem differently. Consider whether changing this condition would probably change the symptom, and whether the fix could create another problem elsewhere.
 
 If important evidence is missing, gather it before you commit. A small check with the people affected may be enough. A complex problem may need a longer review.
 
