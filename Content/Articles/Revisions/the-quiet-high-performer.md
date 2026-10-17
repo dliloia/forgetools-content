@@ -51,4 +51,4 @@ Pick one question and ask it without an agenda hidden behind it: "What kind of w
 
 Listen for the answer. Write down what you agreed to do, then follow up when you said you would. That is how you make a quieter employee feel seen, if feeling seen is what they wanted. More importantly, it keeps you from managing a guess about their career instead of the person in front of you.
 
-ManagerForge gives you a private place to keep one-on-one notes and return to the commitments you made. [Start free with one relationship](/signup), with no credit card required.
+Keep the answer somewhere you can return to it. ManagerForge keeps one-on-one notes in your private workspace and helps track commitments. [Start free with one relationship](/signup), with no credit card required.
