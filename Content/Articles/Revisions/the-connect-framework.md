@@ -38,3 +38,5 @@ Review the agenda together. If something urgent needs attention, handle it. If a
 For example, if an employee brings a blocked project, spend more of the meeting clarifying what decision or help is needed. You can return to development next time and note that follow up. The three sections keep important topics visible, but they do not require equal time every week.
 
 Try the structure for your next one on one. Ask what the employee wants to cover, leave room for blockers and development, and adjust the time to match what is actually going on.
+
+Want a quick way to see where your current one on ones need work? Try the [free ManagerForge 1:1 Health Check](https://www.managerforge.com/tools/1-on-1-health-check). It needs no account, and your answers stay in your browser.
