@@ -52,3 +52,5 @@ Then make the next one-on-one the start of a better record. After the meeting, w
 After each one-on-one, spend a few minutes recording the work discussed, feedback given, commitments made, and anything that needs follow-up. Keep the wording factual. Return to the notes at the next meeting so they help the employee, not only the annual review.
 
 That routine gives you useful material for development conversations throughout the year. It also makes review season easier. You are organizing work you already discussed instead of trying to remember a year in one sitting.
+
+If you want to build this record as you go, ManagerForge’s free plan includes meeting notes and a basic performance review draft for one relationship. [Start free](https://www.managerforge.com/signup), with no credit card required.
