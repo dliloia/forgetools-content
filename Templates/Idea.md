@@ -14,7 +14,7 @@ platforms:
 
 ## Approved sources
 
-<!-- Add one bullet per source you have read: - [Title](https://example.com/source) | Publisher, publication date -->
+<!-- Add sources you have read, with provenance and the supporting passage or a faithful short summary: - [Title](https://example.com/source) | Publisher, publication date | Evidence: the source's relevant finding -->
 
 ## Possible angles
 
